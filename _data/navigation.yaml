@@ -1,0 +1,32 @@
+menu:
+  - name: Home
+    url: "/"
+    cta: false
+  - name: Blog
+    url: "#"
+    cta: false
+  - name: 2019
+    url: "#"
+    cta: false
+    subitems:
+      - name: 2019 Schedule
+        url: "#"
+        cta: false
+      - name: 2019 Photos
+        url: "#"
+        cta: false
+  - name: Sponsoring
+    url: "#"
+    cta: false
+  - name: FAQ
+    url: "#"
+    cta: false
+  - name: About Us
+    url: "#"
+    cta: false
+  - name: Contact
+    url: "#"
+    cta: false
+  - name: Register
+    url: "#"
+    cta: true

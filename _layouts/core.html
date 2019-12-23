@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+
+{% capture title %}{{ page.title }}{% endcapture %}
+
+{% include head.html title=title %}
+
+<body>
+	{% include navigation.html %}
+
+	{{ content }}
+
+	{% include js.html %}
+</body>
+
+</html>
