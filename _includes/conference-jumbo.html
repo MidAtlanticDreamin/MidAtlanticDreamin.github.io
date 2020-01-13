@@ -1,44 +1,45 @@
-<div class="container widget">
-    <div class="landing">
-        <div class="bg" style="background-image: url('{{site.baseurl}}/img/PHL2.jpg')">
-            <a class="creditbox"
-                href="https://unsplash.com/@actionvance?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge"
-                target="_blank" rel="noopener noreferrer"
-                title="Download free do whatever you want high-resolution photos from ActionVance"><span
-                    style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg"
-                        style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white"
-                        viewBox="0 0 32 32">
-                        <title>unsplash-logo</title>
-                        <path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path>
-                    </svg></span><span style="display:inline-block;padding:2px 3px">ActionVance</span></a>
-        </div>
-        <h1><span class="text-fit" style="color:#ffffff">{{ include.conferencename }}</span></h1>
-        <p class="lead text-fit" style="color:#ffffff">{{ include.conferencetag }}</p>
-        <div class="row">
-            <div class="col-md-6">
-                <div class="box">
-                    <img src="{{site.baseurl}}/img/calendar.svg" alt="Calendar" title="WHEN">
-                    <div class="box-inner">
-                        <div>
-                            <span class="sub">WHEN</span>
-                            <span class="title">{{ include.date }}</span>
-                            <span class="desc">{{ include.time }}</span>
+    <div class="row landing bg" style="background-image: url('{{site.baseurl}}/img/PHL2.jpg')">
+        <a class="creditbox"
+            href="https://unsplash.com/@actionvance?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge"
+            target="_blank" rel="noopener noreferrer"
+            title="Download free do whatever you want high-resolution photos from ActionVance"><span
+                style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg"
+                    style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white"
+                    viewBox="0 0 32 32">
+                    <title>unsplash-logo</title>
+                    <path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path>
+                </svg></span><span style="display:inline-block;padding:2px 3px">ActionVance</span>
+        </a>
+        <div class="container">
+            <div class="row justify-content-center">
+                <h1><span class="text-fit" style="color:#ffffff">{{ include.conferencename }}</span></h1>
+                <p class="lead text-fit" style="color:#ffffff">{{ include.conferencetag }}</p>
+            </div>
+            <div class="row">
+                <div class="col-md-6 ">
+                    <div class="box">
+                        <img src="{{site.baseurl}}/img/calendar.svg" alt="Calendar" title="WHEN">
+                        <div class="box-inner">
+                            <div>
+                                <span class="sub">WHEN</span>
+                                <span class="title">{{ include.date }}</span>
+                                <span class="desc">{{ include.time }}</span>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-md-6">
-                <div class="box">
-                    <img src="{{site.baseurl}}/img/geo.svg" alt="Pin" title="WHERE">
-                    <div class="box-inner">
-                        <div>
-                            <span class="sub">WHERE</span>
-                            <span class="title">{{ include.city }}</span>
-                            <span class="desc">{{ include.venue }}</span>
+                <div class="col-md-6">
+                    <div class="box">
+                        <img src="{{site.baseurl}}/img/geo.svg" alt="Pin" title="WHERE">
+                        <div class="box-inner">
+                            <div>
+                                <span class="sub">WHERE</span>
+                                <span class="title">{{ include.city }}</span>
+                                <span class="desc">{{ include.venue }}</span>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>

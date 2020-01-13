@@ -6,11 +6,13 @@ layout: core
 title: "Hello, world!"
 ---
 
-{% include conference-jumbo.html
-        conferencename = "MidAtlantic Dreamin'"
-        conferencetag = "The leading Salesforce Community Conference in the Mid-Atlantic    "
-        date = "May 6th 2020"
-        time = "09:00"
-        city = "Philadelphia, PA"
-        venue = "World Café Live"
-%}
+<div class="container-flex">
+        {% include conference-jumbo.html
+                conferencename = "MidAtlantic Dreamin'"
+                conferencetag = "The leading Salesforce Community Conference in the Mid-Atlantic    "
+                date = "May 6th 2020"
+                time = "09:00"
+                city = "Philadelphia, PA"
+                venue = "World Café Live"
+        %}
+</div>

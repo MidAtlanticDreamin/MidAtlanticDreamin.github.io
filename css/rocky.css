@@ -62,7 +62,6 @@ header nav {
 .bg {
     background-repeat: no-repeat;
     background-size: cover;
-    position: absolute;
     height: 648px;
     right: 0px;
     left: 0px;
@@ -155,4 +154,35 @@ header nav {
 .box .desc {
     font-size: 20px;
     font-weight: 500;
+}
+
+footer {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(57, 57, 57);
+    background-image: none;
+    background-origin: padding-box;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat-x: ;
+    background-repeat-y: ;
+    background-size: auto;
+    border-top-color: rgb(211, 211, 211);
+    border-top-style: solid;
+    border-top-width: 1px;
+    box-sizing: border-box;
+    color: rgb(241, 241, 241);
+    display: block;
+    font-family: Ubuntu, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.8571px;
+    margin-top: 0px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    position: relative;
+    text-size-adjust: 100%;
+    width: 100%;
+    z-index: 30;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
