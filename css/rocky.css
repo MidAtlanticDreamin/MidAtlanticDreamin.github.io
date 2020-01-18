@@ -164,8 +164,6 @@ footer {
     background-origin: padding-box;
     background-position-x: 0%;
     background-position-y: 0%;
-    background-repeat-x: ;
-    background-repeat-y: ;
     background-size: auto;
     border-top-color: rgb(211, 211, 211);
     border-top-style: solid;
@@ -185,4 +183,67 @@ footer {
     width: 100%;
     z-index: 30;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.heading {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(53, 170, 220);
+    background-image: none;
+    background-origin: padding-box;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    display: block;
+    font-family: Ubuntu, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    height: 164px;
+    line-height: 22.8571px;
+    margin-bottom: 45px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    position: relative;
+    text-size-adjust: 100%;
+    width: 1680px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.heading h1 {
+    display: table-cell;
+    vertical-align: middle;
+    color: #fff;
+    font-size: 44px;
+    font-weight: 300;
+    margin: 0;
+    padding: 27px 0;
+    line-height: 1.2;
+    height: 158px;
+}
+
+h1 img.img-circle {
+    max-width: 110px;
+    max-height: 110px;
+    /* border: 2px solid #157eab; */
+    box-shadow: 0 0 0 2px #157eab;
+    margin-right: 40px;
+    border-radius: 180px;
+    position: relative;
+    z-index: 10;
+}
+
+p {
+    display: block;
+    line-height: 1.58;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.empty-row {
+    margin-bottom: 250px;
 }

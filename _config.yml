@@ -29,6 +29,14 @@ url: "https://madreamin.gitlab.io" # the base hostname & protocol for your site,
 twitter_username: jekyllrb
 github_username: jekyll
 
+collections:
+  speakers:
+    speaker_name: ""
+    speaker_title: ""
+    layout: core
+    output: true
+collections_dir: collections
+
 # Build settings
 theme: minima
 plugins:
