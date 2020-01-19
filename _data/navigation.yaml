@@ -1,17 +1,26 @@
 menu:
   - name: Home
+    type: internal
     url: "/"
     cta: false
     disabled: false
+  - name: Contact Us
+    type: email
+    email_address: midatlanticdreamin@gmail.com
+    cta: false
+    disabled: false
   - name: Submit your sessions
-    url: "#"
-    cta: true
-    disabled: true
-  - name: Sponsor the event
-    url: "#"
+    type: external
+    url: "https://forms.gle/ynmssp8Aqv6osyZu8"
+    external: true
     cta: true
     disabled: false
-  - name: Register
+  - name: Sponsor the event
     url: "#"
-    cta: true
+    cta: false
     disabled: true
+  - name: Register
+    type: external
+    url: ""
+    cta: true
+    disabled: false

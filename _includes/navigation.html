@@ -12,20 +12,22 @@
             <div class="navbar-nav ml-auto">
                 {% for item in site.data.navigation.menu %}{% if item.subitems[0] %}
                 <div class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="{{site.url}}{{site.baseurl}}{{item.url}}" id="navbarDropdown" role="button"
-                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle"
+                        href="{% if item.type=="email" %}mailto:{{item.email_address}}{% elsif item.type=="external"%}{{item.url}}{% else %}{{site.url}}{{site.baseurl}}{{item.url}}{% endif %}"
+                        id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">
                         {{item.name}}
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         {% for subitem in item.subitems %}
                         <a class="dropdown-item{% if item.disabled %} disabled{% elsif item.cta %} cta{% elsif item.url == page.url %} active{% endif %}"
-                            href="{{site.url}}{{site.baseurl}}{{subitem.url}}">{{subitem.name}}</a>
+                            href="{% if item.type=="email" %}mailto:{{item.email_address}}{% elsif item.type=="external"%}{{item.url}}{% else %}{{site.url}}{{site.baseurl}}{{item.url}}{% endif %}">{{subitem.name}}</a>
                         {% endfor %}
                     </div>
                 </div>
                 {% else %}<a
                     class="nav-item nav-link{% if item.disabled %} disabled{% elsif item.cta %} cta{% elsif item.url == page.url %} active{% endif %}"
-                    href="{{site.url}}{{site.baseurl}}{{item.url}}">{{item.name}}</a>{% endif %}{%endfor%}
+                    href="{% if item.type=="email" %}mailto:{{item.email_address}}{% elsif item.type=="external"%}{{item.url}}{% else %}{{site.url}}{{site.baseurl}}{{item.url}}{% endif %}">{{item.name}}</a>{% endif %}{%endfor%}
             </div>
         </div>
         {% endif %}
