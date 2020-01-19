@@ -274,3 +274,55 @@ h3 {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+.speakers {
+    margin-top: 25px;
+}
+
+.speaker {
+    margin-left: 12px;
+    margin-right: 12px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.speaker-basic {
+    background-color: rgb(53, 170, 220);
+}
+
+.speaker-star {
+    background-color: rgb(232, 58, 86);
+}
+
+.speaker-text {
+    display: block;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.speaker-name {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.speaker-title {
+    color: rgb(57, 57, 57);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+img.img-circle {
+    display: inline;
+    max-width: 230px;
+    max-height: 230px;
+    border: 2px solid #157eab;
+    box-shadow: 0 0 0 2px #157eab;
+    border-radius: 180px;
+    position: relative;
+    z-index: 10;
+}
