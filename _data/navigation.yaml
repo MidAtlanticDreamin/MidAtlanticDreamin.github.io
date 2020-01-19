@@ -3,7 +3,7 @@ menu:
     url: "/"
     cta: false
     disabled: false
-  - name: Submit your papers
+  - name: Submit your sessions
     url: "#"
     cta: true
     disabled: true
