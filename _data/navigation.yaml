@@ -15,10 +15,6 @@ menu:
     external: true
     cta: true
     disabled: false
-  - name: Sponsor the event
-    url: "#"
-    cta: false
-    disabled: true
   - name: Register
     type: external
     url: ""
