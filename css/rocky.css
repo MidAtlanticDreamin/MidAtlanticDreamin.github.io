@@ -258,3 +258,19 @@ hr.light {
     height: 1px;
     background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
 }
+
+h2 {
+    font-weight: 300;
+    font-size: 36px;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 22px;
+    color: rgb(145, 145, 145);
+}
+
+#tile_description {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
