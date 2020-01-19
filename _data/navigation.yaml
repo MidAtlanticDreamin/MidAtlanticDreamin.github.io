@@ -2,31 +2,16 @@ menu:
   - name: Home
     url: "/"
     cta: false
-  - name: Blog
+    disabled: false
+  - name: Submit your papers
     url: "#"
-    cta: false
-  - name: 2019
+    cta: true
+    disabled: true
+  - name: Sponsor the event
     url: "#"
-    cta: false
-    subitems:
-      - name: 2019 Schedule
-        url: "#"
-        cta: false
-      - name: 2019 Photos
-        url: "#"
-        cta: false
-  - name: Sponsoring
-    url: "#"
-    cta: false
-  - name: FAQ
-    url: "#"
-    cta: false
-  - name: About Us
-    url: "#"
-    cta: false
-  - name: Contact
-    url: "#"
-    cta: false
+    cta: true
+    disabled: false
   - name: Register
     url: "#"
     cta: true
+    disabled: true
