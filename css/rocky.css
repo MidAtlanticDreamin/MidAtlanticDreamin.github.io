@@ -270,7 +270,7 @@ h3 {
     color: rgb(145, 145, 145);
 }
 
-#tile_description {
+.tile {
     margin-top: 50px;
     margin-bottom: 50px;
 }

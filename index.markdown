@@ -15,7 +15,7 @@ title: "Mid-Atlantic Dreamin'"
                 city = "Philadelphia, PA"
                 venue = "World Café Live"
         %}
-        <div id="tile_description" class="container widget">
+        <div id="tile_description" class="container widget tile">
 	<h2>Same Conference, New Look</h2>
 	<h3>(Subtitle TBD)</h3>
         <p>PhillyForce presents Mid-Atlantic Dreamin' is a community-led conference for professionals with a passion for the Salesforce platform. The event is focused on deep technical content for experienced Developers, Configurators, and Architects on the Platform.</p>
