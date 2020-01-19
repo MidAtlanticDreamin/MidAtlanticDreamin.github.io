@@ -17,6 +17,6 @@ menu:
     disabled: false
   - name: Register
     type: external
-    url: ""
+    url: "https://www.eventbrite.com/e/8th-annual-phillyforce-conference-salesforce-trailblazer-community-group-registration-89775844969"
     cta: true
     disabled: false
