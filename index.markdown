@@ -8,8 +8,8 @@ title: "Hello, world!"
 
 <div class="container-flex">
         {% include homepage-jumbo.html
+                conferencetag = "PhillyForce presents"
                 conferencename = "MidAtlantic Dreamin'"
-                conferencetag = "The leading Salesforce Community Conference in the Mid-Atlantic"
                 date = "May 6th 2020"
                 time = "09:00"
                 city = "Philadelphia, PA"

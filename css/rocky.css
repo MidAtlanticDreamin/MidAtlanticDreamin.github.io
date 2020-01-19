@@ -89,17 +89,17 @@ header nav {
     font-size: 115px;
     color: #fff;
     text-align: center;
-    padding-top: 150px;
-    padding-bottom: 0px;
+    padding-bottom: 55px;
+    margin-top: -50px;
 }
 
 .landing p {
     font-family: 'Baloo', cursive;
-    font-size: 28px;
+    font-size: 48px;
     color: #fff;
     text-align: center;
     margin-top: -20px;
-    padding-bottom: 55px;
+    padding-top: 150px;
 }
 
 .box {
