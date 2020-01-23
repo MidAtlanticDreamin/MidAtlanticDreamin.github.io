@@ -6,7 +6,7 @@ menu:
     disabled: false
   - name: Contact Us
     type: email
-    email_address: midatlanticdreamin@gmail.com
+    email_address: info@midatlanticdreamin.com
     cta: false
     disabled: false
   - name: Submit your sessions
