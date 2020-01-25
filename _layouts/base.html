@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+
+{% capture title %}{{ page.title }}{% endcapture %}
+
+{% include head.html title=title %}
+
+<body>
+	{% include navigation.html %}
+	<div class="heading">
+		<div class="container">
+			<h1>
+				{{ page.title }}
+			</h1>
+			<div class="nav">
+				<a href="https://www.showthemes.com/tyler-demo/speakers/katy-jones/" rel="prev"><i
+						class="icon-angle-left"></i></a> <a href="https://www.showthemes.com/tyler-demo/speakers/"
+					title="All"><i class="icon-th-large"></i></a>
+				<a href="https://www.showthemes.com/tyler-demo/speakers/john-robinson/" rel="next"><i
+						class="icon-angle-right"></i></a>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			{{ content }}
+		</div>
+		<div class="row empty-row">
+		</div>
+	</div>
+	{% include footer.html %}
+	{% include js.html %}
+</body>
+
+</html>
