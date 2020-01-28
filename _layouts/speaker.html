@@ -9,26 +9,22 @@
 	{% include navigation.html %}
 	<div class="heading">
 		<div class="container">
-			<h1>
-				<img width="280" height="280" src="{{site.baseurl}}img/speakers/{{page.speaker_image}}"
-					class="img-circle wp-post-image" alt="Picture of {{ page.speaker_name }}"
-					title="{{ page.speaker_name }}" />
-				{{ page.speaker_name }}
-			</h1>
-			<div class="nav">
-				<a href="https://www.showthemes.com/tyler-demo/speakers/katy-jones/" rel="prev"><i
-						class="icon-angle-left"></i></a> <a href="https://www.showthemes.com/tyler-demo/speakers/"
-					title="All"><i class="icon-th-large"></i></a>
-				<a href="https://www.showthemes.com/tyler-demo/speakers/john-robinson/" rel="next"><i
-						class="icon-angle-right"></i></a>
+			<div class="headshot">
+				<img src="{{site.baseurl}}img/speakers/{{page.speaker_image}}" class="img-circle"
+					alt="Picture of {{ page.speaker_name }}" title="{{ page.speaker_name }}" />
+			</div>
+			<div class="speaker-name">
+				<span>
+					{{ page.speaker_name }}
+				</span>
 			</div>
 		</div>
 	</div>
 	<div class="container">
 		<div class="row">
 			<div class="col">
-			{{ content }}
-		</div>
+				{{ content }}
+			</div>
 		</div>
 		<div class="row empty-row">
 		</div>

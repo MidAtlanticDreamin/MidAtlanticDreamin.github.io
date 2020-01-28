@@ -234,27 +234,39 @@ footer {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-.heading h1 {
-    display: table-cell;
+.headshot {
+    padding-top: 44px;
+    margin-left: 16px;
+    z-index: 10;
+}
+
+.headshot .img-circle {
+    display: inline;
     vertical-align: middle;
+    max-width: 25vw;
+    max-height: 75px;
+    box-shadow: 0 0 0 2px #157eab;
+    margin-left: 16px;
+    border-radius: 180px;
+    z-index: 10;
+}
+
+.speaker-name {
+    display: block;
+    text-align: left;
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 120px;
+    font-family: "Prompt", Helvetica, Arial, sans-serif;
+}
+
+.speaker-name span {
     color: #fff;
     font-size: 44px;
     font-weight: 300;
-    margin: 0;
-    padding: 27px 0;
-    line-height: 1.2;
-    height: 158px;
-}
-
-h1 img.img-circle {
-    max-width: 110px;
-    max-height: 110px;
-    /* border: 2px solid #157eab; */
-    box-shadow: 0 0 0 2px #157eab;
-    margin-right: 40px;
-    border-radius: 180px;
-    position: relative;
-    z-index: 10;
+    /* padding: 27px 0; */
+    /* line-height: 1.2; */
+    /* height: 158px; */
 }
 
 p {
@@ -267,7 +279,7 @@ p {
 }
 
 .empty-row {
-    margin-bottom: 250px;
+    margin-bottom: 300px;
 }
 
 .footer-title {
@@ -352,7 +364,7 @@ img.img-circle {
 
 .logo-container {
     margin-left: 0px;
-    max-width: 50vw;
+    max-width: 25vw;
 }
 
 .logo-title {
@@ -371,7 +383,6 @@ img.img-circle {
 }
 
 .logo-title .bottom {
-
     font-weight: bolder;
     height: 100%;
     line-height: 0.9;
