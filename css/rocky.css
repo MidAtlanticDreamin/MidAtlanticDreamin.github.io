@@ -301,6 +301,8 @@ h3 {
 }
 
 .speaker {
+    margin-top: 12px;
+    margin-bottom: 12px;
     margin-left: 12px;
     margin-right: 12px;
     padding-top: 24px;

@@ -1,14 +1,13 @@
 <div class="container tile">
     <h2>Speakers</h2>
     <div class="container speakers">
-        <div class="row">
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
             {% for speaker in site.speakers %}
-            <div class="col-4">
+            <div class="col">
                 <a href="{{speaker.url}}">
                     <div class="container speaker speaker-basic">
                         <div class="row speaker-text">
-                            <img width="230" height="230"
-                                src="{{site.baseurl}}img/speakers/{{speaker.speaker_image}}"
+                            <img width="230" height="230" src="{{site.baseurl}}img/speakers/{{speaker.speaker_image}}"
                                 class="img-circle" alt="Picture of {{speaker.speaker_name}}"
                                 title="{{speaker.speaker_name}}" />
                         </div>
