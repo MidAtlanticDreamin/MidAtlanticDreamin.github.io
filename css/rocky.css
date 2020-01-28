@@ -9,7 +9,7 @@ body {
 }
 
 .navbar-nav {
-    margin-top: 54px;
+    padding-top: 54px;
 }
 
 header nav {
@@ -348,4 +348,51 @@ img.img-circle {
     border-radius: 180px;
     position: relative;
     z-index: 10;
+}
+
+.logo-container {
+    margin-left: 0px;
+    max-width: 50vw;
+}
+
+.logo-title {
+    text-align: left;
+    position: absolute;
+    margin-left: 90px;
+    font-family: "Prompt", Helvetica, Arial, sans-serif;
+}
+
+.logo-title .top {
+    font-size: 14px;
+    font-weight: 900;
+    color: #242424;
+    height: 100%;
+    line-height: 1;
+}
+
+.logo-title .bottom {
+
+    font-weight: bolder;
+    height: 100%;
+    line-height: 0.9;
+}
+
+.logo-title .blue {
+    color: rgb(53, 170, 220);
+}
+
+.logo-title .red {
+    color: rgb(232, 58, 86);
+}
+
+@media screen and (min-width: 1201px) {
+    .logo-title .bottom {
+        font-size: 56px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .logo-title .bottom {
+        font-size: 4.67vw;
+    }
 }
