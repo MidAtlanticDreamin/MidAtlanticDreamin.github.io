@@ -145,6 +145,8 @@ header nav {
     height: 160px;
     text-align: left;
     padding: 40px 40px 40px 96px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     box-sizing: border-box;
     opacity: .92;
     z-index: 10;
@@ -285,10 +287,10 @@ footer {
     .headshot .img-circle {
         max-width: 120px;
         max-height: 120px;
-}
+    }
 
-.speaker-name span {
-    font-size: 44px;
+    .speaker-name span {
+        font-size: 44px;
         margin-left: 140px;
     }
 }
@@ -468,7 +470,7 @@ img.img-circle {
 
     .logo-title .bottom {
         font-size: 4.3vw;
-}
+    }
 
     .navbar-brand>img {
         width: 5.77vw;
