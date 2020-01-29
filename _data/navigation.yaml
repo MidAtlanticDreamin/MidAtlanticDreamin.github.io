@@ -9,6 +9,12 @@ menu:
     email_address: info@midatlanticdreamin.com
     cta: false
     disabled: false
+  - name: Sponsorships
+    type: external
+    url: "https://forms.gle/bie2RdAYTGoozQ4n9"
+    external: true
+    cta: false
+    disabled: false
   - name: Submit your sessions
     type: external
     url: "https://forms.gle/ynmssp8Aqv6osyZu8"
