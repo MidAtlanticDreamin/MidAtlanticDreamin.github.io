@@ -251,16 +251,14 @@ footer {
 }
 
 .headshot {
-    padding-top: 44px;
-    margin-left: 16px;
+    padding-top: 22px;
+    margin-left: -16px;
     z-index: 10;
 }
 
 .headshot .img-circle {
     display: inline;
     vertical-align: middle;
-    max-width: 25vw;
-    max-height: 75px;
     box-shadow: 0 0 0 2px #157eab;
     margin-left: 16px;
     border-radius: 180px;
@@ -273,21 +271,38 @@ footer {
 
 .speaker-name {
     font-family: Prompt, Helvetica, Arial, sans-serif;
-    display: block;
-    text-align: left;
-    position: absolute;
-    margin-top: -50px;
-    margin-left: 120px;
-    font-family: "Prompt", Helvetica, Arial, sans-serif;
 }
 
 .speaker-name span {
     color: #fff;
-    font-size: 44px;
     font-weight: 300;
-    /* padding: 27px 0; */
-    /* line-height: 1.2; */
-    /* height: 158px; */
+    display: block;
+    text-align: left;
+    margin-top: -65px;
+}
+
+@media screen and (min-width: 600px) {
+    .headshot .img-circle {
+        max-width: 120px;
+        max-height: 120px;
+}
+
+.speaker-name span {
+    font-size: 44px;
+        margin-left: 140px;
+    }
+}
+
+@media screen and (max-width: 599px) {
+    .headshot .img-circle {
+        max-width: 20vw;
+        max-height: 20vw;
+    }
+
+    .speaker-name span {
+        font-size: 7.33vw;
+        margin-left: 23.33vw;
+    }
 }
 
 p {
