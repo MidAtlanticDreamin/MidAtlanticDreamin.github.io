@@ -1,6 +1,6 @@
 html,
 body {
-    font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
     font-size: 16px;
     font-weight: 400;
     color: #242424;
@@ -19,6 +19,7 @@ header nav {
     font-size: 16px;
     margin-bottom: 0;
     padding-left: 0;
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 }
 
 .navbar-toggler {
@@ -135,6 +136,7 @@ header nav {
     padding: 40px 40px 40px 96px;
     box-sizing: border-box;
     opacity: .92;
+    font-family: Prompt, Helvetica, Arial, sans-serif;
 }
 
 .box img {
@@ -165,6 +167,7 @@ header nav {
 .box .sub {
     font-size: 16px;
     font-weight: 500;
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 }
 
 .box .title {
@@ -175,6 +178,7 @@ header nav {
 .box .desc {
     font-size: 20px;
     font-weight: 500;
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 }
 
 footer {
@@ -192,7 +196,7 @@ footer {
     box-sizing: border-box;
     color: rgb(241, 241, 241);
     display: block;
-    font-family: Ubuntu, Helvetica, Arial, sans-serif;
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 22.8571px;
@@ -252,6 +256,7 @@ footer {
 }
 
 .speaker-name {
+    font-family: Prompt, Helvetica, Arial, sans-serif;
     display: block;
     text-align: left;
     position: absolute;
@@ -295,6 +300,7 @@ hr.light {
 h2 {
     font-weight: 300;
     font-size: 36px;
+    font-family: Prompt, Helvetica, Arial, sans-serif;
 }
 
 h3 {
