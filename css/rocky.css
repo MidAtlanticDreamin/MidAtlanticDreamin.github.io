@@ -47,6 +47,8 @@ header nav {
     background: #35aadc;
     color: #fff;
     text-decoration: none !important;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
 }
 
 .navbar-expand-lg .navbar-nav .cta,
@@ -54,6 +56,8 @@ header nav {
     background: #e83a56;
     color: #fff;
     text-decoration: none !important;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link,
@@ -329,6 +333,10 @@ h3 {
     margin-right: 12px;
     padding-top: 24px;
     padding-bottom: 24px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
 }
 
 .speaker-basic {
