@@ -1,7 +1,7 @@
 menu:
   - name: Home
     type: internal
-    url: "index.html"
+    url: ""
     cta: false
     disabled: false
   - name: Contact Us
