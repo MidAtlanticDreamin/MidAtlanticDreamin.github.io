@@ -46,14 +46,14 @@ header nav {
 .navbar-expand-lg .navbar-nav .dropdown-item:hover {
     background: #35aadc;
     color: #fff;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .navbar-expand-lg .navbar-nav .cta,
 .navbar-expand-lg .navbar-nav .cta:hover {
     background: #e83a56;
     color: #fff;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link,
@@ -94,7 +94,7 @@ header nav {
     right: 0px;
     background-color: black;
     color: white;
-    text-decoration: none;
+    text-decoration: none !important;
     padding: 4px 6px;
     font-size: 12px;
     font-weight: bold;
@@ -255,6 +255,10 @@ footer {
     z-index: 10;
 }
 
+.nondecorated-link {
+    text-decoration: none !important;
+}
+
 .speaker-name {
     font-family: Prompt, Helvetica, Arial, sans-serif;
     display: block;
@@ -340,7 +344,7 @@ h3 {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: center;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .speaker-name {
