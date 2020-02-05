@@ -22,10 +22,7 @@ title: PhillyForce presents MidAtlantic Dreamin'
 email: info@midatlanticdreamin.com
 description: >- # this means to ignore newlines until "baseurl:"
   PhillyForce presents Mid-Atlantic Dreamin' is a community-led conference for professionals with
-  a passion for the Salesforce platform. The event is focused on deep technical content for 
-  experienced Developers, Configurators, and Architects on the Platform. Our purpose is to elevate 
-  the skills and broaden the platform knowledge of all attendees by bringing together the best and
-  brightest technical talent the Salesforce Ohana has to offer.
+  a passion for the Salesforce platform. Join us May 6, 2020 at World Café Live in Philadelphia.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://midatlanticdreamin.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@phillyforce"
