@@ -16,8 +16,8 @@ menu:
     cta: false
     disabled: false
   - name: Submit a session
-    type: external
-    url: "https://forms.gle/ynmssp8Aqv6osyZu8"
+    type: internal
+    url: "submit-a-session.html"
     external: true
     cta: true
     disabled: false
