@@ -15,15 +15,15 @@ menu:
     external: true
     cta: false
     disabled: false
-  - name: Submit a session
-    type: internal
-    url: "submit-a-session.html"
-    external: true
-    cta: true
-    disabled: false
   - name: Register
     type: external
     url: "https://www.eventbrite.com/e/phillyforce-presents-mid-atlantic-dreamin-registration-89775844969"
     external: true
     cta: false
+    disabled: false
+  - name: Submit a session
+    type: internal
+    url: "submit-a-session.html"
+    external: true
+    cta: true
     disabled: false
