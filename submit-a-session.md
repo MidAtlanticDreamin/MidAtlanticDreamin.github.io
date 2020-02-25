@@ -4,9 +4,10 @@ title: "Submit Your Session"
 description: "Submit your session proposal for MidAtlantic Dreamin' by 2/24/2020! Speak at the Philadelphia Saleesforce community's conference on 5/6/2020!" 
 ---
 
-# Call for Speakers
+## Session submission for MidAtlantic Dreamin' 2020 is now closed. 
+### Thanks for all your submissions!
 
-**Please read this page carefully before continuing to the session submission form.**
+<h3>&nbsp;</h3>
 
 Sessions should elevate the skills of attendees and broaden their platform knowledge with thought-provoking sessions.
 
@@ -63,6 +64,5 @@ Speakers have six minutes and ten seconds for a quick demo of something fun they
 3/09/2020:     Submitters notified<br/>
 5/06/2020:     Conference<br/>
 
-## Thanks for reading! Now,
-
-### <a href="https://forms.gle/ynmssp8Aqv6osyZu8" target="_blank">submit your session proposal!</a>
+## Session submission for MidAtlantic Dreamin' 2020 is now closed. 
+### Thanks for all your submissions!

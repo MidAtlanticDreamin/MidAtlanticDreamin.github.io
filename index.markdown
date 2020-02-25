@@ -11,7 +11,7 @@ title: "MidAtlantic Dreamin'"
                 conferencetag = "PhillyForce presents"
                 conferencename = "MidAtlantic Dreamin'"
                 date = "May 6th 2020"
-                time = "09:00"
+                time = "8:15am - 6:30pm"
                 city = "Philadelphia, PA"
                 venue = "World Café Live"
         %}
