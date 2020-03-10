@@ -4,6 +4,12 @@ menu:
     url: ""
     cta: false
     disabled: false
+  - name: COVID-19
+    type: internal
+    url: "covid-19.html"
+    external: false
+    cta: true
+    disabled: false
   - name: Contact Us
     type: email
     email_address: info@midatlanticdreamin.com
