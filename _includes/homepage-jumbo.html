@@ -21,7 +21,7 @@
                         <img src="{{site.baseurl}}img/calendar.svg" alt="Calendar" title="WHEN">
                         <div class="box-inner">
                             <div>
-                                <span class="sub">WHEN</span>
+                                <span class="sub">{{ include.when }}</span>
                                 <span class="title">{{ include.date }}</span>
                                 <span class="desc">{{ include.time }}</span>
                             </div>
@@ -33,7 +33,7 @@
                         <img src="{{site.baseurl}}img/geo.svg" alt="Pin" title="WHERE">
                         <div class="box-inner">
                             <div>
-                                <span class="sub">WHERE</span>
+                                <span class="sub">{{ include.where }}</span>
                                 <span class="title">{{ include.city }}</span>
                                 <span class="desc">{{ include.venue }}</span>
                             </div>

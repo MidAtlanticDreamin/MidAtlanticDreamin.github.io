@@ -10,11 +10,14 @@ title: "PhillyForce"
         {% include homepage-jumbo.html
                 conferencetag = ""
                 conferencename = "PhillyForce"
-                date = "May 6th 2020"
-                time = "8:15am - 6:30pm"
+                when = "PhillyForce has been"
+                date = "POSTPONED"
+                time = "New date TBD"
+                where = "WHERE"
                 city = "Philadelphia, PA"
                 venue = "World Café Live"
         %}
+
         <div id="tile_description" class="container widget tile">
 	<h2>Brewed in Philly, Shared with the Ohana</h2>
 	<h3></h3>
