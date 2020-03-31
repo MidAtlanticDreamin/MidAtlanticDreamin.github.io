@@ -5,14 +5,13 @@
 layout: core
 title: "PhillyForce"
 ---
-
 <div class="container-flex">
         {% include homepage-jumbo.html
                 conferencetag = ""
                 conferencename = "PhillyForce"
-                when = "PhillyForce has been"
-                date = "POSTPONED"
-                time = "New date TBD"
+                when = "WHEN"
+                date = "October 6th 2020"
+                time = "8:15am - 6:30pm"
                 where = "WHERE"
                 city = "Philadelphia, PA"
                 venue = "World Café Live"
