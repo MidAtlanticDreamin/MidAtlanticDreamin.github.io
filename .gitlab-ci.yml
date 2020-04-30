@@ -5,6 +5,7 @@ variables:
   LC_ALL: C.UTF-8
 
 before_script:
+  - gem install kramdown -v '2.1.0' --source 'https://rubygems.org/'
   - gem install bundler
   - bundle install
 
