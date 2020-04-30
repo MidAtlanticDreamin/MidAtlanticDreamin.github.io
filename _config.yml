@@ -37,6 +37,11 @@ collections:
     speaker_title: ""
     layout: core
     output: true
+  sponsors:
+    sponsor_name: ""
+    url: ""
+    logo: ""
+    output: false
 collections_dir: collections
 
 # Build settings

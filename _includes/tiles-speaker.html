@@ -1,6 +1,6 @@
 <div class="container tile">
-    <h2>Speakers</h2>
-    <div class="container speakers">
+    <h2>{% if include.title %}{{include.title}}{% else %}Speakers{% endif %}</h2>
+    <div class="container carousel">
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
             {% for speaker in site.speakers %}
             <div class="col">

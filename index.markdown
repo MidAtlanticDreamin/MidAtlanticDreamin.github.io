@@ -25,6 +25,13 @@ title: "PhillyForce"
         <p>Our goal is for each attendee, including non-Salesforce technical professionals, to increase their knowledge and raise their skill level.</p>
         </div>
 
-        {% include speaker-carousel.html %}
+        {% include tiles-speaker.html 
+                title = "Keynote Speakers"
+        %}
+
+        {% include tiles-sponsor.html 
+                title = "Trailblazer Sponsors"
+                homepage = true
+        %}
 
 </div>
