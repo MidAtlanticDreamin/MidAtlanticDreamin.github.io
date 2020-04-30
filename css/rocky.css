@@ -51,7 +51,7 @@ header nav {
 .navbar .navbar-nav .active,
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .dropdown-item:hover {
-    background: #35aadc;
+    background: rgb(153, 49, 52);
     color: #fff;
     text-decoration: none !important;
     border-top-left-radius: 4px;
@@ -60,7 +60,7 @@ header nav {
 
 .navbar .navbar-nav .cta,
 .navbar .navbar-nav .cta:hover {
-    background: #e83a56;
+    background: rgb(234, 152, 54);
     color: #fff;
     text-decoration: none !important;
     border-top-left-radius: 4px;
@@ -136,7 +136,7 @@ header nav {
 }
 
 .box {
-    background-color: #35aadc;
+    background-color: rgb(153, 49, 52);
     border-bottom-left-radius: 4px;
     border-bottom-right-radius: 4px;
     border-top-left-radius: 4px;
@@ -228,7 +228,7 @@ footer {
 .heading {
     background-attachment: scroll;
     background-clip: border-box;
-    background-color: rgb(53, 170, 220);
+    background-color: rgb(153, 49, 52);;
     background-image: none;
     background-origin: padding-box;
     background-position-x: 0%;
@@ -261,7 +261,7 @@ footer {
 .headshot .img-circle {
     display: inline;
     vertical-align: middle;
-    box-shadow: 0 0 0 2px #157eab;
+    box-shadow: 0 0 0 2px rgb(234, 152, 54);
     margin-left: 16px;
     border-radius: 180px;
     z-index: 10;
@@ -368,8 +368,32 @@ h3 {
     border-top-right-radius: 4px;
 }
 
+.logotile {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+    width: 100%;
+    position: relative;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 100%;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
 .speaker-basic {
-    background-color: rgb(53, 170, 220);
+    background-color: rgb(153, 49, 52);;
+}
+
+.logotile-basic {
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(153, 49, 52);;
+    border-width: 2px;
+    border-style: solid;
 }
 
 .speaker-star {
@@ -384,15 +408,31 @@ h3 {
     text-decoration: none !important;
 }
 
+.logotile-text {
+    position: absolute;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-decoration: none !important;
+    width: 100%;
+    height: 100%;
+    color: rgb(57, 57, 57);
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .speaker-name {
-    color: #fff;
+    color: rgb(234, 152, 54);
     font-size: 24px;
     font-weight: 500;
     line-height: 24px;
 }
 
 .speaker-title {
-    color: rgb(57, 57, 57);
+    color: white;
     font-size: 16px;
     font-weight: 400;
     line-height: 16px;
@@ -402,10 +442,22 @@ img.img-circle {
     display: inline;
     max-width: 230px;
     max-height: 230px;
-    border: 2px solid #157eab;
-    box-shadow: 0 0 0 2px #157eab;
+    border: 2px solid rgb(234, 152, 54);
+    box-shadow: 0 0 0 2px rgb(234, 152, 54);
     border-radius: 180px;
     position: relative;
+    z-index: 10;
+}
+
+img.img-square-noborder {
+    /* display: inline; */
+    width: 80%;
+    /* width: auto; */
+    height: auto;
+    border: 0px;
+    box-shadow: 0 0 0 0px #157eab;
+    border-radius: 0px;
+    position: absolute;
     z-index: 10;
 }
 
@@ -418,28 +470,37 @@ img.img-circle {
 .logo-title {
     text-align: left;
     position: absolute;
-    font-family: "Prompt", Helvetica, Arial, sans-serif;
 }
 
 .logo-title .top {
-    font-weight: bolder;
     color: #242424;
     height: 100%;
     line-height: 1;
 }
 
 .logo-title .bottom {
-    font-weight: bolder;
     height: 100%;
     line-height: 0.9;
 }
 
-.logo-title .blue {
-    color: rgb(53, 170, 220);
+.logo-title .gold {
+    /* font-family: Times, "Bitter", sans-serif; */
+    font-family: Bitter, sans-serif;
+    height: 100%;
+    line-height: 1;
+    color: rgb(234, 152, 54);
+    font-weight: 100;
+    vertical-align: baseline;
 }
 
-.logo-title .red {
-    color: rgb(232, 58, 86);
+.logo-title .crimson {
+    /* font-family: "Arvo", "Bitter", sans-serif; */
+    font-family: Bitter, sans-serif;
+    height: 100%;
+    line-height: 1;
+    color: rgb(153, 49, 52);
+    font-weight: 900;
+    vertical-align: baseline;
 }
 
 @media screen and (min-width: 1300px) {
@@ -447,13 +508,14 @@ img.img-circle {
         margin-left: 90px;
     }
 
-    .logo-title .top {
+    /* .logo-title .top {
         font-size: 14px;
         margin-left: 2px;
-    }
+    } */
 
-    .logo-title .bottom {
-        font-size: 56px;
+    /* .logo-title .bottom { */
+    .logo-title {
+            font-size: 56px;
     }
 
     .navbar-brand>img {
@@ -467,12 +529,14 @@ img.img-circle {
         margin-left: 6.92vw;
     }
 
-    .logo-title .top {
+    /* .logo-title .top {
         font-size: 1.08vw;
         margin-left: 0.15vw;
-    }
+    } */
 
-    .logo-title .bottom {
+    /* .logo-title .bottom { */
+    .logo-title {
+
         font-size: 4.3vw;
     }
 
@@ -487,13 +551,14 @@ img.img-circle {
         margin-left: 6.92vw;
     }
 
-    .logo-title .top {
+    /* .logo-title .top {
         font-size: 1.08vw;
         margin-left: 6px;
-    }
+    } */
 
-    .logo-title .bottom {
-        font-size: 16px;
+    /* .logo-title .bottom { */
+    .logo-title {
+            font-size: 16px;
     }
 
     .navbar-brand>img {
