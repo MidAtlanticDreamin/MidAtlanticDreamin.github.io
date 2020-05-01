@@ -6,13 +6,13 @@ variables:
 
 before_script:
   - gem install kramdown -v '2.1.0' --source 'https://rubygems.org/'
+  - gem install rb-fsevent -v '0.10.3' --source 'https://rubygems.org/'
   - gem install bundler
   - bundle install
 
 test:
   stage: test
   script:
-    - gem install kramdown -v '2.1.0' --source 'https://rubygems.org/'
     - bundle exec jekyll build -d test
   artifacts:
     paths:
