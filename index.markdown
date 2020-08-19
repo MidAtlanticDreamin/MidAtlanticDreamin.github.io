@@ -10,11 +10,11 @@ title: "PhillyForce"
                 conferencetag = ""
                 conferencename = "PhillyForce"
                 when = "WHEN"
-                date = "October 6th 2020"
-                time = "8:15am - 6:30pm"
+                date = "2021"
+                time = "Stay tuned!"
                 where = "WHERE"
                 city = "Philadelphia, PA"
-                venue = "World Café Live"
+                venue = "Stay tuned!"
         %}
 
         <div id="tile_description" class="container widget tile">
@@ -25,9 +25,9 @@ title: "PhillyForce"
         <p>Our goal is for each attendee, including non-Salesforce technical professionals, to increase their knowledge and raise their skill level.</p>
         </div>
 
-        {% include tiles-speaker.html 
+        <!-- {% include tiles-speaker.html 
                 title = "Keynote Speakers"
-        %}
+        %} -->
 
         {% include tiles-sponsor.html 
                 title = "Trailblazer Sponsors"
