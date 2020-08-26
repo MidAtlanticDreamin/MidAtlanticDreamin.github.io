@@ -16,7 +16,7 @@ Thank you for supporting PhillyForce 2020 with your ticket purchase. At this poi
 To donate or keep your ticket, please complete this form: 
 3. [**Request a refund directly on Eventbrite.**](https://www.eventbrite.com/support/articles/en_US/How_To/can-i-get-a-refund) Wait up to 7 business days to see your refund once issued.
 
-Please, select an option by August 31, so we can begin planning the 2021 event, starting with the budget. At the deadline, any tickets that have have not been refunded or kept will be considered donated.
+Please, select an option **by September 30**, so that we can begin planning the 2021 event, starting with the budget. At the deadline, any tickets that have have not been refunded or kept will be considered donated.
 
 If you booked a hotel for PhillyForce 2020, please reach out to the hotel directly to cancel your reservation.
 
