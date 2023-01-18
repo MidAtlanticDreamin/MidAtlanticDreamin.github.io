@@ -5,8 +5,8 @@ variables:
   LC_ALL: C.UTF-8
 
 before_script:
-  - gem install kramdown -v '2.1.0' --source 'https://rubygems.org/'
-  - gem install rb-fsevent -v '0.10.3' --source 'https://rubygems.org/'
+  - gem install kramdown -v '2.4.0' --source 'https://rubygems.org/'
+  - gem install rb-fsevent -v '0.11.2' --source 'https://rubygems.org/'
   - gem install bundler
   - bundle install
 
@@ -18,7 +18,7 @@ test:
     paths:
       - test
   except:
-    - master
+    - main
 
 pages:
   stage: deploy
@@ -28,4 +28,4 @@ pages:
     paths:
       - public
   only:
-    - master
+    - main
