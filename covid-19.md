@@ -1,9 +1,13 @@
 ---
 layout: base
-title: "COVID-19 Update"
+title: "COVID-19 Updates"
 description: "" 
 ---
-### August 6th Update
+### January 17th 2023 Update
+
+As you likely noticed, PhillyForce did not run in 2021, or 2022. However, plans are now underway for a conference in 2023! Stay tuned for details.
+
+### August 6th 2020 Update
 
 Out of an abundance of caution, we are announcing the postponement of PhillyForce 2020 to 2021. While we did everything in our hand to hold the event this past May, or even later this year, we are not able to keep the event on the books this year due to continued COVID-19 health concerns, local health recommendations and guidelines from Salesforce. The 2021 event will still be in the Greater Philadelphia area.
 
