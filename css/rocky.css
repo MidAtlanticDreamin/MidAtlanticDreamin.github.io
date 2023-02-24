@@ -396,6 +396,13 @@ h3 {
     border-style: solid;
 }
 
+.logotile-basic {
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(153, 49, 52);;
+    border-width: 2px;
+    border-style: solid;
+}
+
 .speaker-star {
     background-color: rgb(232, 58, 86);
 }

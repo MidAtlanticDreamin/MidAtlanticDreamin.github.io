@@ -32,7 +32,7 @@ In the meantime, we wish you all peace and good health as we get through this st
 
 ### March 16th Update
 
-We are very sorry to announce that due to the COVID-19 outbreak, we must postpone our PhillyForce presents Mid-Atlantic Dreamin' conference scheduled for May 6th. We will share further updates as soon as we can when it is scheduled for later this year. Your ticket will be automatically transferred to the new date when that is announced. Please check our website for more updates over the next few weeks.
+We are very sorry to announce that due to the COVID-19 outbreak, we must postpone our Mid-Atlantic Dreamin' conference scheduled for May 6th. We will share further updates as soon as we can when it is scheduled for later this year. Your ticket will be automatically transferred to the new date when that is announced. Please check our website for more updates over the next few weeks.
 
 In the meantime, we wish you all peace and good health as we get through this stressful time.
 
