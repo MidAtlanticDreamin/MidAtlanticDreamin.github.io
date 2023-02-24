@@ -17,7 +17,7 @@ Simply put, we are looking for authentic content that cuts through the buzzwords
 
 ## Who comes to the Conference?
 
-PhillyForce Presents Mid-Atlantic Dreamin’ is a community-led conference with a wide breadth of attendees. 
+Mid-Atlantic Dreamin’ is a community-led conference with a wide breadth of attendees. 
 
 Some attendees are just beginning their journey on Trailhead, others are seasoned vets entering their second decade on the technology. Attendees represent the full breadth of the Ohana: Project Managers, Admins, Developers, and Architects. You’ll find folks from nonprofit, for-profit, and government spaces. Across that diversity, all attendees share a passion for Salesforce, crafting solutions, and helping others.
 
