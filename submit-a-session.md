@@ -2,6 +2,7 @@
 layout: base
 title: "Submit Your Session"
 description: "Submit your session proposal for MidAtlantic Dreamin' by 2/24/2020! Speak at the Philadelphia Saleesforce community's conference on 5/6/2020!" 
+published: false
 ---
 
 ## Session submission for MidAtlantic Dreamin' 2020 is now closed. 
