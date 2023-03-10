@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MidAtlantic Dreamin'
+title: MidAtlantic Dreamin‘
 email: info@midatlanticdreamin.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Mid-Atlantic Dreamin' is a community-led conference for professionals with
-  a passion for the Salesforce platform. Join us May 6, 2020 at World Café Live in Philadelphia.
+  Mid-Atlantic Dreamin‘ is a community-led conference for professionals with
+  a passion for the Salesforce platform. Join us May 8, 2023 at City Winery in Philadelphia.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://midatlanticdreamin.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "@phillyforce"
