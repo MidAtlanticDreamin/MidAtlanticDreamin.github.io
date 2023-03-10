@@ -4,32 +4,32 @@ menu:
     url: ""
     cta: false
     disabled: false
-  - name: COVID-19
-    type: internal
-    url: "covid-19.html"
-    external: false
+  # - name: COVID-19
+  #   type: internal
+  #   url: "covid-19.html"
+  #   external: false
+  #   cta: true
+  #   disabled: false
+  - name: Submit a session
+    type: external
+    url: "https://bit.ly/MADspeakers"
+    external: true
     cta: true
+    disabled: false
+  - name: Sponsorship
+    type: internal
+    url: "docs/MidAtlanticDreamin2023Prospectus.pdf"
+    external: false
+    cta: false
     disabled: false
   - name: Contact Us
     type: email
     email_address: info@midatlanticdreamin.com
     cta: false
     disabled: false
-  # - name: Sponsorship
-  #   type: external
-  #   url: "https://forms.gle/bie2RdAYTGoozQ4n9"
-  #   external: true
-  #   cta: false
-  #   disabled: false
   # - name: Register
   #   type: external
   #   url: "https://www.eventbrite.com/e/phillyforce-presents-mid-atlantic-dreamin-registration-89775844969"
   #   external: true
   #   cta: true
   #   disabled: false
-  # - name: Submit a session
-  #   type: internal
-  #   url: "submit-a-session.html"
-  #   external: true
-  #   cta: false
-  #   disabled: true
