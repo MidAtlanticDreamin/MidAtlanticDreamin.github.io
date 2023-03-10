@@ -10,11 +10,11 @@ title: "MidAtlantic Dreamin’"
                 conferencetag = ""
                 conferencename = "MidAtlantic Dreamin’"
                 when = "WHEN"
-                date = "2023"
-                time = "Stay tuned!"
+                date = "May 8, 2023"
+                time = "9am &mdash; 6pm"
                 where = "WHERE"
                 city = "Philadelphia, PA"
-                venue = "Stay tuned!"
+                venue = "City Winery"
         %}
 
         <div id="tile_description" class="container widget tile">
