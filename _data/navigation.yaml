@@ -15,7 +15,7 @@ menu:
     url: "https://bit.ly/MADspeakers"
     external: true
     cta: true
-    disabled: false
+    disabled: true
   - name: Sponsorship
     type: internal
     url: "docs/MidAtlanticDreamin2023Prospectus.pdf"
