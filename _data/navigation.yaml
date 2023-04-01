@@ -20,7 +20,7 @@ menu:
     type: internal
     url: "sponsors.html"
     cta: false
-    disabled: false
+    disabled: true
   - name: Contact Us
     type: email
     email_address: info@midatlanticdreamin.com
