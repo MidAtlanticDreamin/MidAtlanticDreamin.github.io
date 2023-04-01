@@ -21,7 +21,7 @@
                 {% for item in site.data.navigation.menu %}{% if item.subitems[0] %}
                 <div class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle"
-                        href="{% if item.type=="email" %}mailto:{{item.email_address}}{% elsif item.type=="external"%}{{item.url}}{% else %}{{site.url}}{{site.baseurl}}{{item.url}}{% endif %}"
+                        href="{% if item.type=="email" %}mailto:{{item.email_address}}{% elsif item.type=="external"%}{{item.url}} target="_blank" {% else %}{{site.url}}{{site.baseurl}}{{item.url}}{% endif %}"
                         id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
                         aria-expanded="false">
                         {{item.name}}
@@ -35,7 +35,7 @@
                 </div>
                 {% else %}
                 <a class="nav-item nav-link{% if item.disabled %} disabled{% elsif item.cta %} cta{% elsif item.url == pageurl %} active{% endif %}"
-                    href="{% if item.type=="email" %}mailto:{{item.email_address}}{% elsif item.type=="external"%}{{item.url}}{% else %}{{site.url}}{{site.baseurl}}{{item.url}}{% endif %}">{{item.name}}</a>{% endif %}{%endfor%}
+                    href="{% if item.type=="email" %}mailto:{{item.email_address}}"{% elsif item.type=="external"%}{{item.url}}" target="_blank" {% else %}{{site.url}}{{site.baseurl}}{{item.url}}"{% endif %}>{{item.name}}</a>{% endif %}{%endfor%}
             </div>
         </div>
         {% endif %}

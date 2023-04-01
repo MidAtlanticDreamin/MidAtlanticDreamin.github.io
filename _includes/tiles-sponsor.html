@@ -4,7 +4,7 @@
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
             {% for sponsor in site.sponsors %}{% if sponsor.enabled and sponsor.homepage %}
             <div class="col">
-                <a class="nondecorated-link" href="{{sponsor.sponsor_url}}">
+                <a class="nondecorated-link" href="{{sponsor.sponsor_url}}" target="_blank">
                     <div class="container logotile logotile-basic">
                         <div class="row logotile-text">
                             {% if sponsor.logo %}<img width="230" height="230" src="{{site.baseurl}}img/sponsors/{{sponsor.logo}}"

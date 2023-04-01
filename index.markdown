@@ -30,7 +30,7 @@ title: "MidAtlantic Dreamin’"
         %} -->
 
         {% include tiles-sponsor.html 
-                title = "Trailblazer Sponsors"
+                title = "Sponsors"
                 homepage = true
         %}
 
