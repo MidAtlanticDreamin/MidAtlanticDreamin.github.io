@@ -10,16 +10,15 @@ menu:
   #   external: false
   #   cta: true
   #   disabled: false
-  - name: Submit a session
-    type: external
-    url: "https://bit.ly/MADspeakers"
-    external: true
-    cta: true
-    disabled: true
-  - name: Sponsorship
+  # - name: Submit a session
+  #   type: external
+  #   url: "https://bit.ly/MADspeakers"
+  #   external: true
+  #   cta: false
+  #   disabled: true
+  - name: Sponsors
     type: internal
-    url: "docs/MidAtlanticDreamin2023Prospectus.pdf"
-    external: false
+    url: "sponsors.html"
     cta: false
     disabled: false
   - name: Contact Us
@@ -30,6 +29,12 @@ menu:
   - name: Register
     type: external
     url: "https://midatlanticdreamin.ticketleap.com/2023/"
+    external: true
+    cta: true
+    disabled: false
+  - name: Become a Sponsor
+    type: external
+    url: "docs/MidAtlanticDreamin2023Prospectus.pdf"
     external: true
     cta: true
     disabled: false
