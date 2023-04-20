@@ -3,7 +3,7 @@ title: "Chris Bruzzi"
 name: "Chris Bruzzi"
 jobtitle: ""
 company: ""
-headshot: ""
+headshot: "avatar3.jpg"
 twitter: ""
 layout: speaker
 description: ""

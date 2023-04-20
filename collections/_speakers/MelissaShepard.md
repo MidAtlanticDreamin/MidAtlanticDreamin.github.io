@@ -3,7 +3,7 @@ title: "Melissa Shepard"
 name: "Melissa Shepard"
 jobtitle: ""
 company: ""
-headshot: ""
+headshot: "avatar2.jpg"
 twitter: ""
 layout: speaker
 description: ""
