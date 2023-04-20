@@ -1,9 +1,9 @@
 ---
 title: "Gillian Bruce"
-speaker_name: "Gillian Bruce"
-speaker_title: "Principal Admin Evangelist"
-speaker_company: "Salesforce"
-speaker_image: "GillianBruce.jpg"
+name: "Gillian Bruce"
+jobtitle: "Principal Admin Evangelist"
+company: "Salesforce"
+headshot: "GillianBruce.jpg"
 twitter: gilliankbruce
 layout: speaker
 description: "Gillian Bruce, Principal Admin Evangelist for Salesforce, is a keynote speaker for Midatlantic' Dreamin' 2020."

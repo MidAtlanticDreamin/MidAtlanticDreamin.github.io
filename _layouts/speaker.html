@@ -10,12 +10,12 @@
 	<div class="heading">
 		<div class="container">
 			<div class="headshot">
-				<img src="{{site.baseurl}}img/speakers/{{page.speaker_image}}" class="img-circle"
-					alt="Picture of {{ page.speaker_name }}" title="{{ page.speaker_name }}" />
+				<img src="{{site.baseurl}}img/speakers/{{page.headshot}}" class="img-circle"
+					alt="Picture of {{ page.name }}" title="{{ page.name }}" />
 			</div>
 			<div class="speaker-name">
 				<span>
-					{{ page.speaker_name }}
+					{{ page.name }}
 				</span>
 			</div>
 		</div>
@@ -26,6 +26,26 @@
 				{{ content }}
 			</div>
 		</div>
+
+		<hr>
+		<h2>Related Sessions</h2>
+
+		<div class="schedule">
+			<div class="clearfix"></div>
+			<div class="sessions list">
+				<div class="session"></div>
+				{% for session in site.sessions %}{% if session.speakers contains page.name %}
+				{% include session.html
+						time = session.time
+						title = session.title
+						location = session.location
+						speakers = session.speakers
+						url = session.url
+				%}
+				{% endif %}{% endfor %}
+			</div>
+		</div>
+
 		<div class="row empty-row">
 		</div>
 	</div>

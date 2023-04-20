@@ -1,14 +1,19 @@
 <div class="container tile">
     <h2>{% if include.title %}{{include.title}}{% else %}Sponsors{% endif %}</h2>
     <div class="container carousel">
-        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
-            {% for sponsor in site.sponsors %}{% if sponsor.enabled and sponsor.homepage %}
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
+            {% for sponsor in site.sponsors %}{% if sponsor.enabled and sponsor.level == include.level %}
             <div class="col">
                 <a class="nondecorated-link" href="{{sponsor.sponsor_url}}" target="_blank">
                     <div class="container logotile logotile-basic">
                         <div class="row logotile-text">
-                            {% if sponsor.logo %}<img width="230" height="230" src="{{site.baseurl}}img/sponsors/{{sponsor.logo}}"
-                                class="img-square-noborder" alt="{{sponsor.sponsor_name}} logo"
+                            {% if sponsor.logo %}<img 
+                                width="230"
+                                height="230"
+                                src="{{site.baseurl}}img/sponsors/{{sponsor.logo}}"
+                                class="img-square-noborder" 
+                                alt="{{sponsor.sponsor_name}} logo"
+                                loading="lazy"
                                 title="{{sponsor.sponsor_name}}" />{% else %}{{sponsor.sponsor_name}}{% endif %}
                         </div>
                     </div>

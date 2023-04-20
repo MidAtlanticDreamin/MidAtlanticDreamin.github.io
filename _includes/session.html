@@ -1,0 +1,22 @@
+<div class="session">
+    <span class="time">{{include.time}}</span>
+    <div class="session-inner">
+        <a href="{{ include.url }}" class="title">
+            <span>{{include.title}}</span>
+        </a>
+        <span class="location">{{include.location}}</span>
+        <span class="speakers-thumbs">
+            {% for speaker in site.speakers %}{% if include.speakers contains speaker.name %}
+            {% include speaker-badge.html
+                name = speaker.name
+                company = speaker.company
+                headshot = speaker.headshot
+                url = speaker.url
+            %}
+            {% endif %}{% endfor %}
+        </span>
+        <a href="{{ include.url }}" class="more">
+            More <i class="icon-angle-right"></i>
+        </a>
+    </div>
+</div>

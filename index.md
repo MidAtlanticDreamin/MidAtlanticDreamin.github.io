@@ -30,8 +30,8 @@ title: "MidAtlantic Dreamin’"
         %} -->
 
         {% include tiles-sponsor.html 
-                title = "Sponsors"
-                homepage = true
+                title = "Platinum Sponsors"
+                level = "Platinum"
         %}
 
 </div>

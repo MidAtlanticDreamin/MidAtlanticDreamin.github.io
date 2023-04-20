@@ -33,15 +33,19 @@ googleAnalyticsTrackingId: "UA-154567667-1"
 
 collections:
   speakers:
-    speaker_name: ""
-    speaker_title: ""
-    layout: core
+    name: ""
+    jobtitle: ""
+    layout: "speaker"
     output: true
   sponsors:
     sponsor_name: ""
     url: ""
     logo: ""
     output: false
+  sessions:
+    speaker: ""
+    layout: "session"
+    output: true
 collections_dir: collections
 
 # Build settings

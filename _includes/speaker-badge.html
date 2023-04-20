@@ -1,0 +1,18 @@
+<a href="{{ include.url }}" class="speaker">
+    <img 
+        width="54"
+        height="54"
+        src="{{site.baseurl}}img/speakers/{{include.headshot}}"
+        class="attachment-54x54 size-54x54 wp-post-image"
+        alt="{{include.name}}"
+        decoding="async"
+        loading="lazy"
+    >                
+    <span class="name">
+        <span class="text-fit">
+            <span class="text-fit-inner" style="display:block">
+                {{include.name}}
+            </span>
+        </span>
+    </span>
+</a>
