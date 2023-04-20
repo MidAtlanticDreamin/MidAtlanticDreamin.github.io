@@ -9,7 +9,7 @@ menu:
     url: "agenda.html"
     external: false
     cta: false
-    disabled: true
+    disabled: false
   # - name: Submit a session
   #   type: external
   #   url: "https://bit.ly/MADspeakers"
