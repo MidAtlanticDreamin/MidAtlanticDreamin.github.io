@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+
+{% capture title %}{{ page.title }}{% endcapture %}
+
+{% include head.html title=title %}
+
+<body>
+	{% include navigation.html %}
+	<div class="heading heading-accent">
+		<div class="container h-100">
+			<div class="row h-100">
+				<div class="col my-auto">
+					<h1>{{ page.title }}</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8">
+				{{ content }}
+				<div style="padding:1em 0"></div>
+			</div>
+
+			<div class="col-md-4 sessions single">
+				<div class="session">
+					<!-- <span class="location">Location: <strong>Room 553A</strong></span>
+					<span class="date">Date: <strong>April 28, 2022</strong></span>
+					<span class="time">Time: <strong>4:00 pm - 4:40 pm</strong></span> -->
+					<span class="speakers-thumbs">
+						{% for speakername in page.speakers %}{% for speaker in site.speakers %}{% if speaker.name == speakername %}
+						{% include speaker-badge.html
+							name = speaker.name
+							company = speaker.company
+							headshot = speaker.headshot
+							url = speaker.url
+						%}
+						{% endif %}{% endfor %}{% endfor %}
+					</div>
+			</div>
+		</div>
+
+
+		
+		<div class="row empty-row">
+		</div>
+	</div>
+	{% include footer.html %}
+	{% include js.html %}
+</body>
+
+</html>

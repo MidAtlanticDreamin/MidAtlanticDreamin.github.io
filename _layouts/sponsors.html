@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+
+{% capture title %}{{ page.title }}{% endcapture %}
+
+{% include head.html title=title %}
+
+<body>
+	{% include navigation.html %}
+	<div class="heading">
+		<div class="container h-100">
+			<div class="row h-100">
+				<div class="col my-auto">
+					<h1>{{ page.title }}</h1>
+				</div>
+			</div>
+		</div>
+	</div>
+	{{ content }}
+	<div class="container">
+		<div class="row empty-row">
+		</div>
+	</div>
+	{% include footer.html %}
+	{% include js.html %}
+</body>
+
+</html>

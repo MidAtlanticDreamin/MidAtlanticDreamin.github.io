@@ -4,12 +4,12 @@ menu:
     url: ""
     cta: false
     disabled: false
-  # - name: COVID-19
+  # - name: Agenda
   #   type: internal
-  #   url: "covid-19.html"
+  #   url: "agenda.html"
   #   external: false
-  #   cta: true
-  #   disabled: false
+  #   cta: false
+  #   disabled: true
   # - name: Submit a session
   #   type: external
   #   url: "https://bit.ly/MADspeakers"
@@ -20,7 +20,7 @@ menu:
     type: internal
     url: "sponsors.html"
     cta: false
-    disabled: true
+    disabled: false
   - name: Contact Us
     type: email
     email_address: info@midatlanticdreamin.com
@@ -32,9 +32,9 @@ menu:
     external: true
     cta: true
     disabled: false
-  - name: Become a Sponsor
-    type: external
-    url: "docs/MidAtlanticDreamin2023Prospectus.pdf"
-    external: true
-    cta: true
-    disabled: false
+  # - name: Become a Sponsor
+  #   type: external
+  #   url: "docs/MidAtlanticDreamin2023Prospectus.pdf"
+  #   external: true
+  #   cta: true
+  #   disabled: true

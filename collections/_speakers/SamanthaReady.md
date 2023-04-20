@@ -1,9 +1,9 @@
 ---
 title: "Samantha Ready"
-speaker_name: "Samantha Ready"
-speaker_title: "Director, Trailhead Product Management"
-speaker_company: "Salesforce"
-speaker_image: "SamanthaReady.jpg"
+name: "Samantha Ready"
+jobtitle: "Director, Trailhead Product Management"
+company: "Salesforce"
+headshot: "SamanthaReady.jpg"
 twitter: samantha_ready
 layout: speaker
 description: "Samantha Ready, Director, Trailhead Product Management for Salesforce, is a keynote speaker for Midatlantic' Dreamin' 2020."

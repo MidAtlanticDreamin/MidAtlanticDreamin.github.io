@@ -210,9 +210,9 @@ footer {
     box-sizing: border-box;
     color: rgb(241, 241, 241);
     display: block;
-    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+    font-family: 'Prompt', Helvetica, Arial, sans-serif;
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 200;
     line-height: 22.8571px;
     margin-top: 0px;
     padding-top: 48px;
@@ -237,7 +237,7 @@ footer {
     box-sizing: border-box;
     color: rgb(255, 255, 255);
     display: block;
-    font-family: Ubuntu, Helvetica, Arial, sans-serif;
+    font-family: Prompt, Helvetica, Arial, sans-serif;
     font-size: 16px;
     font-weight: 400;
     height: 164px;
@@ -250,6 +250,10 @@ footer {
     text-size-adjust: 100%;
     width: 100%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.heading-accent {
+    background-color: #e83a56;
 }
 
 .headshot {
@@ -552,4 +556,486 @@ img.img-square-noborder {
         width: 5.77vw;
         height: 5.77vw;
     }
+}
+
+/* speakers */
+.speakers {
+    margin-left: -15px;
+    margin-right: -15px;
+    text-align: center;
+}
+.speakers.carousel {
+    text-align: center;
+    white-space: nowrap;
+}
+.speakers .speaker {
+    display: inline-block;
+    padding: 0 15px;
+    margin: 15px -1.5px;
+    width: 33.33333%;
+    white-space: normal;
+    /* safari inline-block fix */
+    display: -moz-inline-stack;
+    vertical-align: top;
+}
+.speakers .speaker .speaker-inner {
+    position: relative;
+    display: block;
+    padding: 40px 12px 20px;
+    height: 387px;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    line-height: 24px;
+    background: #35aadc;
+}
+.speakers .speaker.featured .speaker-inner {
+    background: #e83a56;
+}
+.speakers .speaker.featured .speaker-inner:after {
+    position: absolute;
+    top: 14px; right: 14px;
+    display: block;
+    content: " ";
+    background: url("../images/icons.png");
+    background-position: -420px 0;
+    width: 48px; height: 48px;
+    z-index: 30;
+}
+.speakers .photo {
+    display: block;
+    width: 212px; max-width: 100%;
+    margin: 0 auto 10px;
+    z-index: 20;
+    position: relative;
+}
+.speakers .photo img {
+    max-width: 100%;
+    border-radius: 180px;
+    /*border: 2px solid #157eab;*/
+    box-shadow: 0px 0px 0px 2px #157eab;
+}
+.speakers .featured .photo img {
+    border-color: #9d1127;
+    box-shadow: 0px 0px 0px 2px #9d1127;
+}
+.speakers .name {
+    display: table;
+    font-size: 24px;
+    font-weight: 500;
+    color: #fff;
+    height: 55px; width: 100%;
+    margin: 0 0 20px;
+}
+.speakers .name>span{
+    display: table-cell;
+    max-height: 55px;
+    vertical-align: middle; text-align: center;
+}
+.speaker .description {
+    display: block;
+    text-align: center;
+    color: #393939;
+    font-size: 14px; font-weight: normal;
+    line-height: normal;
+}
+.speakers .speaker .view {
+    display: none;
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    line-height: 60px;
+    color: #fff;
+    background: #3f3f3f;
+    font-size: 16px; font-weight: 500;
+    z-index: 20;
+    text-transform: uppercase;
+}
+.speakers .speaker .view [class^=icon] {
+    margin: 1px 0 -2px 6px;
+}
+.speakers .speaker .speaker-inner:hover {
+    color: #35aadc;
+}
+.speakers .speaker.featured .speaker-inner:hover {
+    color: #e83a56;
+}
+.speakers .speaker .speaker-inner:hover:before {
+    content: "";
+    position: absolute;
+    top:0; left: 0; right: 0; bottom: 0;
+    z-index: 10;
+    background: #fff;
+    opacity: 0.9;
+}
+.speakers .speaker .speaker-inner:hover .view {
+    display: block;
+}
+.speakers .speaker .speaker-inner:hover .name {
+    position: relative;
+    color: inherit;
+    z-index: 20;
+}
+
+/* connect with us */
+.connect {
+    position: relative;
+    border-radius: 4px;
+    box-shadow: none; -moz-box-shadow: none;
+    color: #fff;
+    font-size: 34px; font-weight: 300;
+    padding: 20px 20px;
+    margin: 0;
+    background-color: #e83a56;
+}
+.connect:before {
+    content: " ";
+    background: url("../images/icons.png");
+    background-position: 0 -120px;
+    width: 38px; height: 38px;
+    position: absolute;
+    left: 34px; top:50%; margin-top:-18px;
+}
+.connect .connect-inner {
+    display: table;
+    margin:0; padding: 0;
+    width: 100%; min-height: 80px;
+}
+.connect .connect-inner>span {
+    display: table-cell;
+    width: 30%; height: 100%;
+    padding-left:65px;
+    vertical-align: middle;
+}
+.connect .links {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+    margin: 0; padding: 0;
+    text-align: center;
+}
+.connect .links a {
+    display: inline-block;
+    position: relative;
+    font-size: 42px;
+    width: 58px; height: 70px;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    line-height: 1;
+    vertical-align: bottom;
+}
+.connect .links a i {
+    display: block;
+    height: 60px; width: 60px;
+    position: relative;
+    margin: 5px 0 0 5px;
+    z-index: 10;
+}
+.connect .links a:hover:before {
+    position: absolute;
+    left: 0; top: 0;
+    width: 70px; height: 70px;
+    content: "";
+    opacity: .46;
+    -moz-border-radius: 35px / 35px 35px 35px 35px;
+    -webkit-border-radius: 35px / 35px 35px 35px 35px;
+    border-radius: 35px / 35px 35px 35px 35px;
+    background-clip: padding-box;
+    background-color: #3f3f3f;
+    z-index: 0;
+}
+
+/* sessions */
+.sessions {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.sessions.carousel {
+    text-align: center;
+    white-space: nowrap;
+}
+.sessions .session {
+    display: inline-block;
+    padding: 0 15px;
+    margin: 15px -1.5px;
+    width: 33.33333%;
+    white-space: normal;
+    overflow: hidden;
+}
+
+.sessions .session .session-inner {
+    position: relative;
+    display: block;
+    height: 402px;
+    padding: 19px 19px 47px;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    background: #ebebeb;
+    color: #5b5959;
+}
+.sessions.condensed .session .session-inner {
+    height: auto;
+}
+.sessions .session .title {
+    display: table;
+    font-family: 'Source Sans Pro', cursive;
+    color: #e83a56;
+    font-size: 20px; font-weight: 500;
+    line-height: 22px;
+    margin-bottom: 10px;
+    height: 98px;
+}
+.sessions .session .title>span {
+    display: table-cell;
+    vertical-align: middle;
+    max-height: 98px;
+}
+.sessions .session .desc {
+    text-transform: uppercase;
+    font-weight: 300;
+    display: block;
+}
+.sessions .session .desc strong {
+    text-transform: none;
+    font-weight: bold;
+}
+.sessions .session .speakers-thumbs {
+    display: block;
+    margin: 16px -7px;
+    width: 100%;
+    height: 135px;
+    text-align: center;
+    overflow: hidden;
+    z-index: 20;
+    position: relative;
+    float: left;
+}
+.sessions .session .speaker {
+    position: relative;
+    display: inline-block;
+    width: 64px; height: 64px;
+    margin: 2px 1px; padding: 0;
+}
+.sessions .session .speaker img {
+    max-width: 100%;
+    border-radius: 180px;
+    /*border: 1px solid #157eab;*/
+    box-shadow: 0px 0px 0px 1px #157eab;
+}
+.sessions .session .speaker.featured img {
+    border-color: #e83a56;
+    box-shadow: 0px 0px 0px 1px #e83a56;
+}
+.sessions .session .more {
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    line-height: 47px;
+    color: #fff;
+    background: #3f3f3f;
+    font-size: 16px; font-weight: 500;
+    z-index: 20;
+    padding: 0 19px;
+}
+.sessions .session .more i {
+    margin: 2px 0 -2px 6px;
+}
+.sessions.condensed .session .more {
+    line-height: 34px;
+}
+
+/* sessions - list */
+.sessions.list {
+    margin: 2px 0 0;
+    clear: both;
+}
+.sessions.list .day-floating {
+    position: relative;
+    color: #3f3f3f;
+    font-size: 21px; font-weight: 500;
+    z-index: 40;
+    margin-top:-2px;
+    /*height: 60px;*/
+    background: #fff;
+}
+.sessions.list .day-floating > span {
+    display: block;
+    clear: both;
+    border-top: 4px solid #35aadc;
+    padding: 14px 0;
+    max-height: 60px;
+    background: #fff;
+    border-bottom: 1px solid #d2d2d2;
+}
+.sessions.list .day-floating.fixed {
+    position: fixed;
+    top: 46px; left:0; right: 0;
+    z-index: 30;
+}
+.sessions.list .day-floating.fixed.absolute {
+    position: absolute;
+}
+.sessions.list .session {
+    float: none;
+    display: block;
+    padding: 16px 0; margin: 0;
+    width: 100%;
+    border-bottom: 1px solid #d2d2d2;
+}
+.sessions.list .time {
+    display: block;
+    float: left;
+    width: 20%;
+    padding-right: 7%;
+    color: #939393;
+    font-size: 14px; font-weight: 300;
+}
+.sessions.list .session-inner {
+    margin: 0; padding: 0;
+    height: auto; width: auto;
+    background: none;
+    text-align: left;
+    border-radius: 0;
+}
+.sessions.list .session .title {
+    display: block;
+    margin: 0; padding: 0 120px 0 0;
+    height: auto;
+    font-size: 20px;
+    line-height: normal;
+}
+.sessions.list .session .location {
+    color: #5b5959;
+    font-size: 16px; font-weight: 300;
+    margin: 0;
+}
+.sessions.list .session .speakers-thumbs {
+    margin: 6px 0 0;
+    height: auto;
+    text-align: left;
+    overflow: inherit;
+}
+.sessions.list .session .speaker {
+    display: block;
+    float: left;
+    height: 54px; width: 20%;
+    margin: 6px 0; padding: 0 16px 0 1px;
+    color: #242424;
+    font-size: 14px; font-weight: 500;
+    text-decoration: none;
+}
+.sessions.list .session .speaker img {
+    float: left;
+    width: 54px;
+}
+.sessions.list .session .speaker .name {
+    display: block;
+    margin: 0 0 0 62px; padding: 0;
+    height: 100%;
+}
+.sessions.list .session .speaker .name>span {
+    display: table-cell;
+    position: relative;
+    vertical-align: middle;
+    height: 54px; max-height: 54px;
+}
+.sessions.list .more {
+    top: 0; right: 0; left: auto; bottom: auto;
+    display: inline-block;
+    float: right;
+    line-height: 32px; width: auto;
+    background-color: #e83a56;
+    border: none;
+    font-size: 14px; font-weight: normal;
+}
+
+/* sessions filtering */
+.schedule ul ul {
+    display: none;
+    position: absolute;
+    background-color: #3d3d3d;
+    height: auto; min-width: 180px;
+    text-align: left;
+    border-radius: 0;
+    text-transform: none;
+    margin: 0; padding: 0;
+    z-index: 100;
+    margin-left: 3px;
+}
+/*
+.schedule ul li:hover > ul {
+    display: block;
+}
+*/
+.schedule .hover {
+	display: block;
+}
+.schedule ul ul li {
+    position: relative;
+    display: block;
+    color: #fff;
+    padding: 3px 0;
+}
+.schedule ul ul li a {
+    padding: 7px 14px;
+    max-height: none;
+    height: auto;
+}
+.schedule ul ul li a:hover {
+    color:#fff;
+}
+
+/* single session */
+.sessions.single {
+    margin-left: 0; margin-right: 0;
+}
+.sessions.single .session {
+    font-size: 16px; font-weight: 300;
+    margin: 6px 0 0; padding: 0;
+    overflow: inherit;
+    width: 100%;
+    color: #5b5959;
+}
+.sessions.single .session > span {
+    display: block;
+}
+.sessions.single .session > span strong {
+    text-transform: none;
+}
+.sessions.single .location strong {
+    color: #35aadc;
+}
+.sessions.single .session .speakers-thumbs {
+    display: block;
+    margin: 0 -1em; padding: 1em 0;
+    height: auto;
+    text-align: left;
+}
+.sessions.single .session .speaker {
+    display: block;
+    float: left;
+    width:100%; height: auto;
+    margin: 0 0 6px; padding: 0 1em;
+    font-size: 14px; font-weight: 500;
+    line-height: 1;
+    color: #242424;
+}
+.sessions.single .session .speaker img {
+    max-width: 54px;
+    margin: 0 0.5em 0 0;
+    float: left;
+}
+.sessions.single .speaker .name {
+    display: table;
+    height: 54px;
+}
+.sessions.single .speaker .name>span {
+    display: table-cell;
+    vertical-align: middle;
+    height: 54px; max-height: 54px; max-width: 70px;
+}
+.single-session-link {
+	cursor: default;
 }
