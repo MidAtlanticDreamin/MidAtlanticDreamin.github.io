@@ -3,7 +3,7 @@ title: "Patricia Perkins"
 name: "Patricia Perkins"
 jobtitle: ""
 company: ""
-headshot: ""
+headshot: "avatar2.jpg"
 twitter: ""
 layout: speaker
 description: ""

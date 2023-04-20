@@ -3,7 +3,7 @@ title: "Mike DeMaria"
 name: "Mike DeMaria"
 jobtitle: ""
 company: ""
-headshot: ""
+headshot: "avatar3.jpg"
 twitter: ""
 layout: speaker
 description: ""

@@ -3,7 +3,7 @@ title: "Michelle Hansen"
 name: "Michelle Hansen"
 jobtitle: ""
 company: ""
-headshot: ""
+headshot: "avatar2.jpg"
 twitter: ""
 layout: speaker
 description: ""

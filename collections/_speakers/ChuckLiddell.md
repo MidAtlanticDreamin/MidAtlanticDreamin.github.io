@@ -3,7 +3,7 @@ title: "Chuck Liddell"
 name: "Chuck Liddell"
 jobtitle: ""
 company: ""
-headshot: ""
+headshot: "avatar1.jpg"
 twitter: ""
 layout: speaker
 description: ""

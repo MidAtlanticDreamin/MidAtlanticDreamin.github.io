@@ -3,7 +3,7 @@ title: "Jonathan Devlin"
 name: "Jonathan Devlin"
 jobtitle: ""
 company: ""
-headshot: ""
+headshot: "avatar3.jpg"
 twitter: ""
 layout: speaker
 description: ""
