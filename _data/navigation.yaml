@@ -4,12 +4,12 @@ menu:
     url: ""
     cta: false
     disabled: false
-  # - name: Agenda
-  #   type: internal
-  #   url: "agenda.html"
-  #   external: false
-  #   cta: false
-  #   disabled: true
+  - name: Agenda
+    type: internal
+    url: "agenda.html"
+    external: false
+    cta: false
+    disabled: true
   # - name: Submit a session
   #   type: external
   #   url: "https://bit.ly/MADspeakers"
