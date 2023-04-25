@@ -2,6 +2,7 @@
 title: "Getting started: Migrating workflows and processes to flows"
 speakers:
  - "Dengyue Hamori"
+ - "Dylan Rodgers"
 layout: session
 ---
 
