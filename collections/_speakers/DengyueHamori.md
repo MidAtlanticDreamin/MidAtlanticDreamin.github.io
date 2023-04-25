@@ -3,8 +3,12 @@ title: "Dengyue Hamori"
 name: "Dengyue Hamori"
 jobtitle: ""
 company: ""
-headshot: "avatar2.jpg"
-twitter: ""
+headshot: "DengyueHamori.jpg"
+linkedin:
+    - handle: "dengyue-hamori"
+    - url: "https://www.linkedin.com/in/dengyue-hamori/"
 layout: speaker
 description: ""
 ---
+
+17x certified Senior Admin with a passion for automation and enablement.
