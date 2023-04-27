@@ -12,7 +12,7 @@ social:
       handle: "coriobrienpaluck"
       url: "https://www.linkedin.com/in/coriobrienpaluck/"
     - type: twitter
-      handle: "CoriOPaluck"
+      handle: "@CoriOPaluck"
       url: "https://twitter.com/CoriOPaluck"
 layout: speaker
 description: ""

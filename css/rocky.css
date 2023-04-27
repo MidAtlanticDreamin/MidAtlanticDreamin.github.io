@@ -1069,29 +1069,39 @@ svg.svg-inline--fa {
 }
 
 span.social-brand-linkedin {
-    color: #0077b5;
+    color: #e83a56;
+    /* color: #0077b5; */
 }
 
 span.social-brand-mastodon {
-    color: #6364ff;
+    color: #e83a56;
+    /* color: #6364ff; */
 }
 
 span.social-brand-medium {
-    color: #000;
+    color: #e83a56;
+    /* color: #000; */
 }
 
 span.social-brand-youtube {
-    color: #F00;
+    color: #e83a56;
+    /* color: #F00; */
 }
 
 span.social-brand-twitter {
-    color: #1d9bf0;
+    color: #e83a56;
+    /* color: #1d9bf0; */
 }
 
 span.social-brand-facebook {
-    color: #1877f2;
+    color: #e83a56;
+    /* color: #1877f2; */
 }
 
 span.social-brand-link {
+    color: #e83a56;
+}
+
+span.social-brand-trailblazer {
     color: #e83a56;
 }
