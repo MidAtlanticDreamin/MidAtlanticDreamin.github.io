@@ -4,15 +4,16 @@ name: "Cori O'Brien"
 jobtitle: ""
 company: ""
 headshot: "CoriOBrien.jpg"
-twitter:
-    - handle: "CoriOPaluck"
-    - url: "https://twitter.com/CoriOPaluck"
-linkedin:
-    - handle: "coriobrienpaluck"
-    - url: "https://www.linkedin.com/in/coriobrienpaluck/"
-trailblazer:
-    - handle: "trailrunner"
-    - url: "https://trailblazer.me/id/trailrunner"
+social:
+    - type: trailblazer
+      handle: "trailrunner"
+      url: "https://trailblazer.me/id/trailrunner"
+    - type: linkedin
+      handle: "coriobrienpaluck"
+      url: "https://www.linkedin.com/in/coriobrienpaluck/"
+    - type: twitter
+      handle: "CoriOPaluck"
+      url: "https://twitter.com/CoriOPaluck"
 layout: speaker
 description: ""
 ---

@@ -1,0 +1,32 @@
+<a class="social-handle" href="{{ include.url }}" target="_blank" rel="noopener noreferrer">
+    {% if include.type == "linkedin" %}
+    <span class="social-brand-linkedin">
+        <i class="fa-brands fa-linkedin"></i>
+    </span>
+    {% elsif include.type == "mastodon" %}
+    <span class="social-brand-mastodon">
+        <i class="fa-brands fa-mastodon"></i>
+    </span>
+    {% elsif include.type == "medium" %}
+    <span class="social-brand-medium">
+        <i class="fa-brands fa-medium"></i>
+    </span>
+    {% elsif include.type == "youtube" %}
+    <span class="social-brand-youtube">
+        <i class="fa-brands fa-youtube"></i>
+    </span>
+    {% elsif include.type == "twitter" %}
+    <span class="social-brand-twitter">
+        <i class="fa-brands fa-twitter"></i>
+    </span>
+    {% elsif include.type == "facebook" %}
+    <span class="social-brand-facebook">
+        <i class="fa-brands fa-facebook"></i>
+    </span>
+    {% elsif include.type == "link" %}
+    <span class="social-brand-link">
+        <i class="fa-solid fa-link"></i>
+    </span>
+    {% endif %}
+    <span class="social-handle-text">{{include.handle}}</span>
+</a>

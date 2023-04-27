@@ -4,12 +4,13 @@ name: "Patricia Perkins"
 jobtitle: ""
 company: ""
 headshot: "PatriciaPerkins.jpg"
-linkedin:
-    - handle: "worldstouch"
-    - url: "https://www.linkedin.com/in/worldstouch/"
-facebook:
-    - handle: "travelertrish"
-    - url: "https://www.facebook.com/travelertrish"
+social:
+    - type: linkedin
+      handle: "worldstouch"
+      url: "https://www.linkedin.com/in/worldstouch/"
+    - type: facebook
+      handle: "travelertrish"
+      url: "https://www.facebook.com/travelertrish"
 layout: speaker
 description: ""
 ---

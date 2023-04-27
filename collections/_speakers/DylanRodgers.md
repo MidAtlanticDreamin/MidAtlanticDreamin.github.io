@@ -4,9 +4,10 @@ name: "Dylan Rodgers"
 jobtitle: ""
 company: ""
 headshot: "DylanRodgers.jpg"
-linkedin:
-    - handle: "dylanmrodgers"
-    - url: "https://www.linkedin.com/in/dylanmrodgers/"
+social:
+    - type: linkedin
+      handle: "dylanmrodgers"
+      url: "https://www.linkedin.com/in/dylanmrodgers/"
 layout: speaker
 description: ""
 ---

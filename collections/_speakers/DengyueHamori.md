@@ -4,9 +4,10 @@ name: "Dengyue Hamori"
 jobtitle: ""
 company: ""
 headshot: "DengyueHamori.jpg"
-linkedin:
-    - handle: "dengyue-hamori"
-    - url: "https://www.linkedin.com/in/dengyue-hamori/"
+social:
+    - type: linkedin
+      handle: "dengyue-hamori"
+      url: "https://www.linkedin.com/in/dengyue-hamori/"
 layout: speaker
 description: ""
 ---

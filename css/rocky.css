@@ -6,6 +6,13 @@ body {
     color: #242424;
     height: 100%;
     line-height: 1.428571429;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+div.container {
+    flex: 1;
 }
 
 .navbar-collapse {
@@ -217,7 +224,7 @@ footer {
     margin-top: 0px;
     padding-top: 48px;
     padding-bottom: 48px;
-    position: relative;
+    flex:none;
     text-size-adjust: 100%;
     width: 100%;
     z-index: 30;
@@ -295,7 +302,7 @@ footer {
 
     .speaker-name span {
         font-size: 44px;
-        margin-left: 140px;
+        margin-left: 165px;
     }
 }
 
@@ -923,7 +930,7 @@ img.img-square-noborder {
     height: 54px; width: 20%;
     margin: 6px 0; padding: 0 16px 0 1px;
     color: #242424;
-    font-size: 14px; font-weight: 500;
+    font-size: 16px; font-weight: 500;
     text-decoration: none;
 }
 .sessions.list .session .speaker img {
@@ -1018,7 +1025,7 @@ img.img-square-noborder {
     float: left;
     width:100%; height: auto;
     margin: 0 0 6px; padding: 0 1em;
-    font-size: 14px; font-weight: 500;
+    font-size: 16px; font-weight: 500;
     line-height: 1;
     color: #242424;
 }
@@ -1034,8 +1041,57 @@ img.img-square-noborder {
 .sessions.single .speaker .name>span {
     display: table-cell;
     vertical-align: middle;
-    height: 54px; max-height: 54px; max-width: 70px;
+    height: 54px; max-height: 54px; max-width: 350px;
 }
 .single-session-link {
 	cursor: default;
+}
+
+.fa-brands {
+
+}
+
+a.social-handle {
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+
+span.social-handle-text {
+    color: #000;
+    font-size: 16px;
+}
+
+svg.svg-inline--fa {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+    padding-right: 10px;
+}
+
+span.social-brand-linkedin {
+    color: #0077b5;
+}
+
+span.social-brand-mastodon {
+    color: #6364ff;
+}
+
+span.social-brand-medium {
+    color: #000;
+}
+
+span.social-brand-youtube {
+    color: #F00;
+}
+
+span.social-brand-twitter {
+    color: #1d9bf0;
+}
+
+span.social-brand-facebook {
+    color: #1877f2;
+}
+
+span.social-brand-link {
+    color: #e83a56;
 }

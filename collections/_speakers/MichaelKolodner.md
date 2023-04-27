@@ -4,9 +4,10 @@ name: "Michael Kolodner"
 jobtitle: ""
 company: ""
 headshot: "MichaelKolodner.jpg"
-linkedin:
-    - handle: "michael-kolodner"
-    - url: "https://www.linkedin.com/in/michael-kolodner/"
+social:
+    - type: linkedin
+      handle: "michael-kolodner"
+      url: "https://www.linkedin.com/in/michael-kolodner/"
 layout: speaker
 description: ""
 ---

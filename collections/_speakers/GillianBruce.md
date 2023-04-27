@@ -4,7 +4,6 @@ name: "Gillian Bruce"
 jobtitle: "Principal Admin Evangelist"
 company: "Salesforce"
 headshot: "GillianBruce.jpg"
-twitter: gilliankbruce
 layout: speaker
 description: "Gillian Bruce, Principal Admin Evangelist for Salesforce, is a keynote speaker for Midatlantic' Dreamin' 2020."
 ---

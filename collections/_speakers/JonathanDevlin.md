@@ -4,12 +4,13 @@ name: "Jonathan Devlin"
 jobtitle: ""
 company: ""
 headshot: "JonathanDevlin.jpg"
-linkedin:
-    - handle: "jonathan-devlin-923b2a76"
-    - url: "https://www.linkedin.com/in/jonathan-devlin-923b2a76"
-trailblazer:
-    - handle: "jdevlin2"
-    - url: "https://trailblazer.me/id/jdevlin2"
+social:
+    - type: trailblazer
+      handle: "jdevlin2"
+      url: "https://trailblazer.me/id/jdevlin2"
+    - type: linkedin
+      handle: "jonathan-devlin-923b2a76"
+      url: "https://www.linkedin.com/in/jonathan-devlin-923b2a76"
 layout: speaker
 description: ""
 ---

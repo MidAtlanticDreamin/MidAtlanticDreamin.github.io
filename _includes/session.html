@@ -7,7 +7,7 @@
         <span class="location">{{include.location}}</span>
         <span class="speakers-thumbs">
             {% for speaker in site.speakers %}{% if include.speakers contains speaker.name %}
-            {% include speaker-badge.html
+            {% include badge-speaker.html
                 name = speaker.name
                 company = speaker.company
                 headshot = speaker.headshot

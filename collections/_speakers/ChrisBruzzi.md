@@ -4,15 +4,16 @@ name: "Chris Bruzzi"
 jobtitle: ""
 company: ""
 headshot: "ChrisBruzzi.jpg"
-twitter:
-    - handle: "chrisbruzzi"
-    - url: "https://twitter.com/chrisbruzzi"
-linkedin:
-    - handle: "bruzzi"
-    - url: "https://www.linkedin.com/in/bruzzi/"
-trailblazer:
-    - handle: "bruzzi"
-    - url: "https://trailblazer.me/id/"
+social:
+    - type: trailblazer
+      handle: "bruzzi"
+      url: "https://trailblazer.me/id/"
+    - type: linkedin
+      handle: "bruzzi"
+      url: "https://www.linkedin.com/in/bruzzi/"
+    - type: twitter
+      handle: "chrisbruzzi"
+      url: "https://twitter.com/chrisbruzzi"
 layout: speaker
 description: ""
 ---
