@@ -12,7 +12,7 @@ social:
       handle: "bruzzi"
       url: "https://www.linkedin.com/in/bruzzi/"
     - type: twitter
-      handle: "chrisbruzzi"
+      handle: "@chrisbruzzi"
       url: "https://twitter.com/chrisbruzzi"
 layout: speaker
 description: ""

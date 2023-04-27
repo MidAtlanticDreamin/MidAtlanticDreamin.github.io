@@ -9,7 +9,7 @@ social:
       handle: "lnk.bio/susannahkate"
       url: "https://lnk.bio/susannahkate"
     - type: medium
-      handle: "splaisted"
+      handle: "@splaisted"
       url: "https://medium.com/@splaisted"
     - type: linkedin
       handle: "susannahkate"
@@ -18,7 +18,7 @@ social:
       handle: "SalesforceArchitects"
       url: "https://youtube.com/@SalesforceArchitects"
     - type: twitter
-      handle: "sunnydalelow"
+      handle: "@sunnydalelow"
       url: "https://twitter.com/sunnydalelow"
 layout: speaker
 description: ""

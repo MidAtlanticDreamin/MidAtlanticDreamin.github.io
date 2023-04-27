@@ -27,6 +27,10 @@
     <span class="social-brand-link">
         <i class="fa-solid fa-link"></i>
     </span>
+    {% elsif include.type == "trailblazer" %}
+    <span class="social-brand-trailblazer">
+        {% include trailhead.html %}
+    </span>
     {% endif %}
     <span class="social-handle-text">{{include.handle}}</span>
 </a>

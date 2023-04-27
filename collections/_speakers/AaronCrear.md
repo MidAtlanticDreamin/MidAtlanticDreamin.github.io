@@ -5,15 +5,15 @@ jobtitle: ""
 company: ""
 headshot: "AaronCrear.jpg"
 social:
+    - type: trailblazer
+      handle: "aaroncrear"
+      url: "https://trailblazer.me/id/aaroncrear"
     - type: linkedin
       handle: "aaroncrear"
       url: "https://www.linkedin.com/in/aaroncrear/"
     - type: twitter
-      handle: "AaronCrear"
+      handle: "@AaronCrear"
       url: "https://twitter.com/AaronCrear"
-    - type: trailblazer
-      handle: "aaroncrear"
-      url: "https://trailblazer.me/id/aaroncrear"
 layout: speaker
 description: ""
 ---

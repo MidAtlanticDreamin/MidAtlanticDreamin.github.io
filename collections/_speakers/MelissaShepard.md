@@ -12,7 +12,7 @@ social:
       handle: "lissa0977"
       url: "https://www.linkedin.com/in/lissa0977/"
     - type: twitter
-      handle: "lissa__x"
+      handle: "@lissa__x"
       url: "https://twitter.com/lissa__x"
 layout: speaker
 description: ""

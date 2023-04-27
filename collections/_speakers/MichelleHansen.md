@@ -12,7 +12,7 @@ social:
       handle: "michelleelizabethhansen"
       url: "https://www.linkedin.com/in/michelleelizabethhansen/"
     - type: twitter
-      handle: "mehansen82"
+      handle: "@mehansen82"
       url: "https://twitter.com/mehansen82"
 layout: speaker
 description: ""
