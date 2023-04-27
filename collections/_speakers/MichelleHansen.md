@@ -4,15 +4,16 @@ name: "Michelle Hansen"
 jobtitle: ""
 company: ""
 headshot: "MichelleHansen.jpg"
-twitter:
-    - handle: "mehansen82"
-    - url: "https://twitter.com/mehansen82"
-linkedin:
-    - handle: "michelleelizabethhansen"
-    - url: "https://www.linkedin.com/in/michelleelizabethhansen/"
-trailblazer:
-    - handle: "michellehansen"
-    - url: "https://trailblazer.me/id/michellehansen"
+social:
+    - type: trailblazer
+      handle: "michellehansen"
+      url: "https://trailblazer.me/id/michellehansen"
+    - type: linkedin
+      handle: "michelleelizabethhansen"
+      url: "https://www.linkedin.com/in/michelleelizabethhansen/"
+    - type: twitter
+      handle: "mehansen82"
+      url: "https://twitter.com/mehansen82"
 layout: speaker
 description: ""
 ---

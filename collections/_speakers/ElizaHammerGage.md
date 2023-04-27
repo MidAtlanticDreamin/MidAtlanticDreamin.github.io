@@ -4,9 +4,10 @@ name: "Eliza Hammer Gage"
 jobtitle: ""
 company: ""
 headshot: "ElizaHammerGage.jpg"
-linkedin:
-    - handle: "elizahammergage"
-    - url: "https://www.linkedin.com/in/elizahammergage/"
+social:
+    - type: linkedin
+      handle: "elizahammergage"
+      url: "https://www.linkedin.com/in/elizahammergage/"
 layout: speaker
 description: ""
 ---

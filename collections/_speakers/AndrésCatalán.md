@@ -4,7 +4,13 @@ name: "Andrés Catalán"
 jobtitle: "Senior Delivery Principal, Global Salesforce Practice, Financial Services"
 company: "Slalom"
 headshot: "AndrésCatalán.jpg"
-twitter: ""
+social:
+    - type: link
+      handle: "andres.cat"
+      url: "https://andres.cat"
+    - type: linkedin
+      handle: catalandres
+      url: "https://www.linkedin.com/in/catalandres/"
 layout: speaker
 description: ""
 ---

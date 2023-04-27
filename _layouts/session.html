@@ -30,7 +30,7 @@
 					<span class="time">Time: <strong>4:00 pm - 4:40 pm</strong></span> -->
 					<span class="speakers-thumbs">
 						{% for speakername in page.speakers %}{% for speaker in site.speakers %}{% if speaker.name == speakername %}
-						{% include speaker-badge.html
+						{% include badge-speaker.html
 							name = speaker.name
 							company = speaker.company
 							headshot = speaker.headshot
@@ -40,9 +40,6 @@
 					</div>
 			</div>
 		</div>
-
-
-		
 		<div class="row empty-row">
 		</div>
 	</div>

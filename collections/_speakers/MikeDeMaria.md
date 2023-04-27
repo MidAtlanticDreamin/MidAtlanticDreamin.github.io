@@ -4,12 +4,13 @@ name: "Mike DeMaria"
 jobtitle: ""
 company: ""
 headshot: "MikeDeMaria.jpg"
-mastodon:
-    - handle: "@mike@dreamin.online"
-    - url: "https://dreamin.online/@mike"
-linkedin:
-    - handle: "mdemaria"
-    - url: "https://www.linkedin.com/in/mdemaria/"
+social:
+    - type: linkedin
+      handle: "mdemaria"
+      url: "https://www.linkedin.com/in/mdemaria/"
+    - type: mastodon
+      handle: "@mike@dreamin.online"
+      url: "https://dreamin.online/@mike"
 layout: speaker
 description: ""
 ---
