@@ -20,9 +20,8 @@ title: "MidAtlantic Dreamin’"
         <div id="tile_description" class="container widget tile">
 	<h2>Brewed in Philly, Shared with the Ohana</h2>
 	<h3></h3>
-        <p>Mid-Atlantic Dreamin’ is a community-led conference for professionals with a passion for the Salesforce platform. The event is focused on deep technical content for experienced Developers, Configurators, and Architects on the Platform.</p>
-        <p>Our purpose is to elevate the skills and broaden the platform knowledge of all attendees by bringing together the best and brightest technical talent the Salesforce Ohana has to offer.</p>
-        <p>Our goal is for each attendee, including non-Salesforce technical professionals, to increase their knowledge and raise their skill level.</p>
+        <p>Mid-Atlantic Dreamin' is a community-led conference for professionals with a passion for the Salesforce platform. Our community is open to anyone who wants to learn more about Salesforce, from beginners to advanced users. We cover all aspects of Salesforce, including career development, sales, marketing, service, analytics and more!</p>
+        <p>Our goal is for each attendee, including non-Salesforce technical professionals, to increase their knowledge and raise their skill level. We want to create an environment where we can share ideas, ask questions, and collaborate on solutions to common Salesforce challenges.</p>
         </div>
 
         <!-- {% include tiles-speaker.html 
