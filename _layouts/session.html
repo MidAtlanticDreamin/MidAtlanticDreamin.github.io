@@ -25,9 +25,9 @@
 
 			<div class="col-md-4 sessions single">
 				<div class="session">
-					<!-- <span class="location">Location: <strong>Room 553A</strong></span>
-					<span class="date">Date: <strong>April 28, 2022</strong></span>
-					<span class="time">Time: <strong>4:00 pm - 4:40 pm</strong></span> -->
+					<span class="location"><strong>{{ page.location }}</strong></span>
+					<!-- <span class="date">Date: <strong>April 28, 2022</strong></span> -->
+					<span class="time"><strong>{{ page.time }}</strong></span>
 					<span class="speakers-thumbs">
 						{% for speakername in page.speakers %}{% for speaker in site.speakers %}{% if speaker.name == speakername %}
 						{% include badge-speaker.html

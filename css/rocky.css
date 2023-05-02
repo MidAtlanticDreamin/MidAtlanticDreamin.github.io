@@ -1000,7 +1000,7 @@ img.img-square-noborder {
 }
 .sessions.single .session {
     font-size: 16px; font-weight: 300;
-    margin: 6px 0 0; padding: 0;
+    margin:  0; padding: 0;
     overflow: inherit;
     width: 100%;
     color: #5b5959;
@@ -1012,11 +1012,11 @@ img.img-square-noborder {
     text-transform: none;
 }
 .sessions.single .location strong {
-    color: #35aadc;
+    color: #e83a56;
 }
 .sessions.single .session .speakers-thumbs {
     display: block;
-    margin: 0 -1em; padding: 0 1em 0 0;
+    margin: 0 -1em; padding: 1em 1em 0 0;
     height: auto;
     text-align: left;
 }

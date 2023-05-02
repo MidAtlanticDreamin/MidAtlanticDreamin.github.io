@@ -1,7 +1,7 @@
 <div class="session">
     <span class="time">{{include.time}}</span>
     <div class="session-inner">
-        <a href="{{ include.url }}" class="title">
+        <a {% if include.speakers %}href="{{ include.url }}"{% endif %} class="title">
             <span>{{include.title}}</span>
         </a>
         <span class="location">{{include.location}}</span>
@@ -15,8 +15,10 @@
             %}
             {% endif %}{% endfor %}
         </span>
+        {% if include.speakers %}
         <a href="{{ include.url }}" class="more">
             More <i class="icon-angle-right"></i>
         </a>
+        {% endif %}
     </div>
 </div>
