@@ -1016,7 +1016,7 @@ img.img-square-noborder {
 }
 .sessions.single .session .speakers-thumbs {
     display: block;
-    margin: 0 -1em; padding: 1em 0;
+    margin: 0 -1em; padding: 0 1em 0 0;
     height: auto;
     text-align: left;
 }
