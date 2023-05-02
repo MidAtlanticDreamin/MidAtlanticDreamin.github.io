@@ -3,6 +3,9 @@ title: "Innovate with the Commons: Salesforce community collaboration at its bes
 speakers:
  - "Cori O'Brien"
 layout: session
+location: "Upstairs Loft"
+time: "1 — 1:20pm"
+order: "D2a"
 ---
 
 As a Salesforce professional, you know the struggles of facing common challenges in your daily work as an Admin, Developer, or Consultant. You're not alone --- others in the community feel the same way. When faced with a problem, you often turn to the community to find solutions and build a custom solution. Resolving these challenges can be time-consuming and require significant energy and resources that may already be stretched thin.

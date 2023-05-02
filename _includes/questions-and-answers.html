@@ -1,0 +1,19 @@
+<div class="accordion" id="accordionExample">
+    {% for question in site.questions | sort: "order" %}{% if question.section == include.section %}
+    <div class="card">
+      <div class="card-header question" id="Q{{ question.code }}">
+        <!-- <h2 class="mb-0"> -->
+          <button class="question btn btn-link btn-block text-left{% if question.order != 1 %} collapsed{% endif %}" type="button" data-toggle="collapse" data-target="#{{ question.code }}" aria-expanded="{% if question.order == 1 %}true{% else %}false{% endif %}" aria-controls="collapseOne">
+            {{ question.question }}
+          </button>
+        <!-- </h2> -->
+      </div>
+  
+      <div id="{{ question.code }}" class="collapse{% if question.order == 1 %} show{% endif %}" aria-labelledby="{{ question.code }}" data-parent="#accordionExample">
+        <div class="card-body answer">
+          {{ question.content }}
+        </div>
+      </div>
+    </div>
+    {% endif %}{% endfor %}
+</div>

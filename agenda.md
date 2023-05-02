@@ -11,13 +11,15 @@ published: true
         <div class="followWrap" style="height: 60px;">
             <div class="day-floating"><span>May 8, 2023</span></div>
         </div>
-        {% for session in site.sessions %}
+        {% assign sessions = site.sessions | sort: "order" %}
+        {% for session in sessions %}
         {% include session.html
                 time = session.time
                 title = session.title
                 location = session.location
                 speakers = session.speakers
                 url = session.url
+                output = session.output
         %}
         {% endfor %}
     </div>
