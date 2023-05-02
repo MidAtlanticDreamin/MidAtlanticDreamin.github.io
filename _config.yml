@@ -32,6 +32,11 @@ metaKeywords: "event, salesforce, force.com, midatlantic dreaming, trailblazer, 
 googleAnalyticsTrackingId: "UA-154567667-1"
 
 collections:
+  questions:
+    question: ""
+    section: ""
+    order: 0
+    id: ""
   speakers:
     name: ""
     jobtitle: ""

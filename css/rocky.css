@@ -1105,3 +1105,18 @@ span.social-brand-link {
 span.social-brand-trailblazer {
     color: #e83a56;
 }
+
+.question {
+    font-weight: 600;
+    background-color: #fff !important;
+    text-decoration: none !important;
+    color: #e83a56;
+}
+
+.question :hover {
+    color: #e83a56;
+}
+
+.answer {
+    padding: 32px;
+}

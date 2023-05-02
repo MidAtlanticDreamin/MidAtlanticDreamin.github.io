@@ -21,6 +21,12 @@ menu:
     url: "sponsors.html"
     cta: false
     disabled: false
+  - name: "Q&A"
+    type: internal
+    url: "q-and-a.html"
+    external: false
+    cta: false
+    disabled: false
   - name: Contact Us
     type: email
     email_address: info@midatlanticdreamin.com
