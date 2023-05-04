@@ -15,4 +15,4 @@ layout: speaker
 description: ""
 ---
 
- Principal Consultant/Architect at Slalom. She enjoys simplifying complex business use cases and building scalable solutions on the platform. She has a special interest in Data and Analytics, AI, and Flows and loves to work in Healthcare.
+ Pratima is a Principal Consultant/Architect at [Slalom](https://slalom.com){:target="_blank"}. She enjoys simplifying complex business use cases and building scalable solutions on the platform. She has a special interest in Data and Analytics, AI, and Flows and loves to work in healthcare projects. Pratima shares Salesforce bytes on [her YouTube channel](https://www.youtube.com/@PratimaShri){:target="_blank"}.
