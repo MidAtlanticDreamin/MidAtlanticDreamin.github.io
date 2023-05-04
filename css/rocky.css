@@ -97,6 +97,11 @@ header nav {
     color: #5b5959;
 }
 
+a {
+    color:#e83a56;
+    text-decoration: none;
+}
+
 .bg {
     background-repeat: no-repeat;
     background-size: cover;
@@ -896,8 +901,8 @@ img.img-square-noborder {
     float: left;
     width: 20%;
     padding-right: 7%;
-    color: #939393;
-    font-size: 14px; font-weight: 300;
+    color: #000;
+    font-size: 16px; font-weight: 300;
 }
 .sessions.list .session-inner {
     margin: 0; padding: 0;
