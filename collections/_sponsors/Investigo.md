@@ -1,6 +1,6 @@
 ---
 sponsor_name: "Investigo"
-logo: "Investigo1.png"
+logo: "Investigo.png"
 sponsor_url: "https://investigo-us.com"
 output: false
 enabled: true

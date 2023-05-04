@@ -97,6 +97,11 @@ header nav {
     color: #5b5959;
 }
 
+a {
+    color:#e83a56;
+    text-decoration: none;
+}
+
 .bg {
     background-repeat: no-repeat;
     background-size: cover;
@@ -414,7 +419,7 @@ h3 {
 .speaker-text {
     display: block;
     padding-top: 12px;
-    padding-bottom: 12px;
+    padding-bottom: 0px;
     text-align: center;
     text-decoration: none !important;
 }
@@ -444,9 +449,9 @@ h3 {
 
 .speaker-title {
     color: rgb(57, 57, 57);
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
-    line-height: 16px;
+    line-height: 18px;
 }
 
 img.img-circle {
@@ -896,8 +901,8 @@ img.img-square-noborder {
     float: left;
     width: 20%;
     padding-right: 7%;
-    color: #939393;
-    font-size: 14px; font-weight: 300;
+    color: #000;
+    font-size: 16px; font-weight: 300;
 }
 .sessions.list .session-inner {
     margin: 0; padding: 0;

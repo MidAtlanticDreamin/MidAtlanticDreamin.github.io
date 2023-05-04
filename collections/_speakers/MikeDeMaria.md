@@ -2,7 +2,7 @@
 title: "Mike DeMaria"
 name: "Mike DeMaria"
 jobtitle: ""
-company: ""
+company: "Equitable"
 headshot: "MikeDeMaria.jpg"
 social:
     - type: linkedin

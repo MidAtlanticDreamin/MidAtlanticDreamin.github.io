@@ -2,7 +2,7 @@
 title: "Chuck Liddell"
 name: "Chuck Liddell"
 jobtitle: ""
-company: ""
+company: "Valence App"
 headshot: "ChuckLiddell.jpg"
 social:
     - type: linkedin

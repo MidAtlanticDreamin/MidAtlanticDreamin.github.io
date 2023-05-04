@@ -2,7 +2,7 @@
 title: "Michelle Hansen"
 name: "Michelle Hansen"
 jobtitle: ""
-company: ""
+company: "Slalom"
 headshot: "MichelleHansen.jpg"
 social:
     - type: trailblazer

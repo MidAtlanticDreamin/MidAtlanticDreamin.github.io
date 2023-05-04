@@ -2,7 +2,7 @@
 title: "Aaron Crear"
 name: "Aaron Crear"
 jobtitle: ""
-company: ""
+company: "Hat-Trick Consulting"
 headshot: "AaronCrear.jpg"
 social:
     - type: trailblazer

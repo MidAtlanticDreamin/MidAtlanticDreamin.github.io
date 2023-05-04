@@ -24,9 +24,10 @@ title: "MidAtlantic Dreamin’"
         <p>Our goal is for each attendee, including non-Salesforce technical professionals, to increase their knowledge and raise their skill level. We want to create an environment where we can share ideas, ask questions, and collaborate on solutions to common Salesforce challenges.</p>
         </div>
 
-        <!-- {% include tiles-speaker.html 
-                title = "Keynote Speakers"
-        %} -->
+        {% include tiles-speaker.html 
+                title = "Keynote Speaker"
+                keynote = true
+        %}
 
         {% include tiles-sponsor.html 
                 title = "Platinum Sponsors"

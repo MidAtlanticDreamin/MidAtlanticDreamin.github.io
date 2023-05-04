@@ -10,6 +10,12 @@ menu:
     external: false
     cta: false
     disabled: false
+  - name: Speakers
+    type: internal
+    url: "speakers.html"
+    external: false
+    cta: false
+    disabled: false
   # - name: Submit a session
   #   type: external
   #   url: "https://bit.ly/MADspeakers"

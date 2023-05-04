@@ -2,7 +2,7 @@
 title: "Michael Kolodner"
 name: "Michael Kolodner"
 jobtitle: ""
-company: ""
+company: "Kolodner.com"
 headshot: "MichaelKolodner.jpg"
 social:
     - type: linkedin

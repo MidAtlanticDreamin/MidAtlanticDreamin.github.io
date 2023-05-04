@@ -2,7 +2,7 @@
 title: "Dengyue Hamori"
 name: "Dengyue Hamori"
 jobtitle: ""
-company: ""
+company: "CallRail"
 headshot: "DengyueHamori.jpg"
 social:
     - type: linkedin
