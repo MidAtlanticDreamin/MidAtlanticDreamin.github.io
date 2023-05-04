@@ -3,21 +3,21 @@
     <div class="container carousel">
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
             {% for speaker in site.speakers %}
-            <div class="col">
-                <a class="nondecorated-link" href="{{speaker.url}}">
-                    <div class="container speaker speaker-basic">
-                        <div class="row speaker-text">
-                            <img width="230" height="230" src="{{site.baseurl}}img/speakers/{{speaker.speaker_image}}"
-                                class="img-circle" alt="Picture of {{speaker.speaker_name}}"
-                                title="{{speaker.speaker_name}}" />
-                        </div>
-                        <div class="row speaker-text speaker-name">{{speaker.speaker_name}}</div>
-                        <div class="row speaker-text speaker-title">
-                            {{speaker.speaker_title}}<br />{{speaker.speaker_company}}</div>
-                    </div>
-                </a>
-            </div>
-            {% endfor %}
+            {% if include.keynote %}{% if speaker.keynote %}
+            {% include tile-speaker.html 
+                name = speaker.name
+                company = speaker.company
+                headshot = speaker.headshot
+                url = speaker.url
+            %}{% endif %}
+            {% else %}
+            {% include tile-speaker.html 
+                name = speaker.name
+                company = speaker.company
+                headshot = speaker.headshot
+                url = speaker.url
+            %}
+            {% endif %}{% endfor %}
         </div>
     </div>
 </div>

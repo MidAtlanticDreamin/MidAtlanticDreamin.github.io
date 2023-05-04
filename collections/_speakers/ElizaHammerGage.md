@@ -2,7 +2,7 @@
 title: "Eliza Hammer Gage"
 name: "Eliza Hammer Gage"
 jobtitle: ""
-company: ""
+company: "Red Argyle"
 headshot: "ElizaHammerGage.jpg"
 social:
     - type: linkedin

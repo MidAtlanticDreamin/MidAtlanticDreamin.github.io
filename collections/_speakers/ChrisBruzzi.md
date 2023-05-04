@@ -2,7 +2,7 @@
 title: "Chris Bruzzi"
 name: "Chris Bruzzi"
 jobtitle: ""
-company: ""
+company: "Uncommon Purpose / Hubbl Diagnostics"
 headshot: "ChrisBruzzi.jpg"
 social:
     - type: trailblazer

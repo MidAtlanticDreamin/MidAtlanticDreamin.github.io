@@ -2,7 +2,7 @@
 title: "Cori O'Brien"
 name: "Cori O'Brien"
 jobtitle: ""
-company: ""
+company: "Salesforce"
 headshot: "CoriOBrien.jpg"
 social:
     - type: trailblazer

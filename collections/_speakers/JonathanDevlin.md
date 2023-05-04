@@ -2,7 +2,7 @@
 title: "Jonathan Devlin"
 name: "Jonathan Devlin"
 jobtitle: ""
-company: ""
+company: "Booz Allen Hamilton"
 headshot: "JonathanDevlin.jpg"
 social:
     - type: trailblazer

@@ -2,7 +2,7 @@
 title: "Dylan Rodgers"
 name: "Dylan Rodgers"
 jobtitle: ""
-company: ""
+company: "Candybox"
 headshot: "DylanRodgers.jpg"
 social:
     - type: linkedin

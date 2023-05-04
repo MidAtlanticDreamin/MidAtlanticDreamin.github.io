@@ -2,7 +2,7 @@
 title: "Melissa Shepard"
 name: "Melissa Shepard"
 jobtitle: ""
-company: ""
+company: "Lizztech Consulting"
 headshot: "MelissaShepard.jpg"
 social:
     - type: trailblazer

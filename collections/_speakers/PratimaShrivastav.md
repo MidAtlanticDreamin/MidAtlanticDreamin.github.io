@@ -8,6 +8,9 @@ social:
     - type: linkedin
       handle: "pratima-shrivastav-412a85151"
       url: "https://www.linkedin.com/in/pratima-shrivastav-412a85151/"
+    - type: youtube
+      handle: "PratimaShri"
+      url: "https://www.youtube.com/@PratimaShri"
 layout: speaker
 description: ""
 ---

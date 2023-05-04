@@ -2,7 +2,7 @@
 title: "Trish Perkins"
 name: "Patricia Perkins"
 jobtitle: ""
-company: ""
+company: "Worlds Touch"
 headshot: "PatriciaPerkins.jpg"
 social:
     - type: linkedin
