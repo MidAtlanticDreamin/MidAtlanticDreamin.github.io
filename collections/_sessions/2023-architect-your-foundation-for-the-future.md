@@ -1,7 +1,7 @@
 ---
 title: " Architect your foundation for the future"
 speakers:
- - "Susannah Plaistead"
+ - "Susannah Plaisted"
 layout: session
 location: "Main Downstairs"
 time: "9 — 10am"
