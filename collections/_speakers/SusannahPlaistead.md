@@ -1,9 +1,9 @@
 ---
-title: "Susannah Plaistead"
-name: "Susannah Plaistead"
+title: "Susannah Plaisted"
+name: "Susannah Plaisted"
 jobtitle: "Architect Evangelist"
 company: "Salesforce"
-headshot: "SusannahPlaistead.jpg"
+headshot: "SusannahPlaisted.jpg"
 social:
     - type: link
       handle: "lnk.bio/susannahkate"
