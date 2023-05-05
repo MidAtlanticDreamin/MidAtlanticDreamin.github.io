@@ -5,6 +5,8 @@ description: ""
 published: true
 ---
 
+<p>See also <a href="./docs/MidAtlanticDreamin2023Agenda.pdf">the agenda in PDF</a></p>
+
 <div class="schedule">
     <div class="clearfix"></div>
     <div class="sessions list">
