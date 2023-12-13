@@ -10,7 +10,7 @@ title: "MidAtlantic Dreamin’"
                 conferencetag = ""
                 conferencename = "MidAtlantic Dreamin’"
                 when = "WHEN"
-                date = "May 8, 2023"
+                date = "May 6, 2024"
                 time = "9am &mdash; 6pm"
                 where = "WHERE"
                 city = "Philadelphia, PA"
@@ -24,7 +24,7 @@ title: "MidAtlantic Dreamin’"
         <p>Our goal is for each attendee, including non-Salesforce technical professionals, to increase their knowledge and raise their skill level. We want to create an environment where we can share ideas, ask questions, and collaborate on solutions to common Salesforce challenges.</p>
         </div>
 
-        {% include tiles-speaker.html 
+        <!-- {% include tiles-speaker.html 
                 title = "Keynote Speaker"
                 keynote = true
         %}
@@ -32,6 +32,6 @@ title: "MidAtlantic Dreamin’"
         {% include tiles-sponsor.html 
                 title = "Platinum Sponsors"
                 level = "Platinum"
-        %}
+        %} -->
 
 </div>
