@@ -3,7 +3,7 @@
         <div class="container logo-container">
             <div class="logo">
                 <a class="navbar-brand" href="{{site.url}}">
-                    <img width="75px" height="75px" src="{{site.url}}{{site.baseurl}}/img/logo-red-blue.svg">
+                    <img width="75px" height="75px" src="{{site.url}}/img/logo-red-blue.svg">
                 </a>
             </div>
             <div class="logo-title">
@@ -12,7 +12,7 @@
         </div>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"> <img src="{{site.baseurl}}img/list.svg" alt="Menu" title="Menu"></span>
+            <span class="navbar-toggler-icon"> <img src="{{site.url}}/img/list.svg" alt="Menu" title="Menu"></span>
         </button>
         {% if page.url == "/"%}{% assign pageurl = ""%}{% else %}{% capture pageurl %}{{ page.url | remove_first: "/" }}{% endcapture %}{% endif %}
         {% if site.data.navigation.menu[0] %}
