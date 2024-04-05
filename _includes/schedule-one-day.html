@@ -1,20 +1,12 @@
----
-layout: base
-title: "Agenda"
-description: "" 
-published: true
----
-
-<p>See also <a href="./docs/MidAtlanticDreamin2023Agenda.pdf">the agenda in PDF</a></p>
-
 <div class="schedule">
     <div class="clearfix"></div>
     <div class="sessions list">
         <div class="followWrap" style="height: 60px;">
-            <div class="day-floating"><span>May 8, 2023</span></div>
+            <div class="day-floating"><span>{{ include.date }}</span></div>
         </div>
         {% assign sessions = site.sessions | sort: "order" %}
         {% for session in sessions %}
+        {% if session.edition == include.edition %}
         {% include session.html
                 time = session.time
                 title = session.title
@@ -23,6 +15,7 @@ published: true
                 url = session.url
                 output = session.output
         %}
+        {% endif %}
         {% endfor %}
     </div>
 </div>

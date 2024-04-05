@@ -2,7 +2,15 @@
     <h2>{% if include.title %}{{include.title}}{% else %}Sponsors{% endif %}</h2>
     <div class="container carousel">
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
-            {% for sponsor in site.sponsors %}{% if sponsor.enabled and sponsor.level == include.level %}
+            {% for sponsor in site.sponsors %}
+            {% assign include_this_sponsor = false %}
+            {% if sponsor.enabled %}{% for yearlevel in sponsor.yearlevels %}
+            {% assign year = yearlevel | split: "|" | first %}
+            {% assign level = yearlevel | split: "|" | last %}
+            {% if include.edition == year and include.level == level %}
+            {% assign include_this_sponsor = true %}
+            {% endif %}{% endfor %}{% endif %}
+            {% if include_this_sponsor %}
             <div class="col">
                 <a class="nondecorated-link" href="{{sponsor.sponsor_url}}" target="_blank">
                     <div class="container logotile logotile-basic">

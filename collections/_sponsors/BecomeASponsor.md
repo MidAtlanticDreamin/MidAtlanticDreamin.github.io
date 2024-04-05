@@ -4,5 +4,6 @@ logo: "BecomeASponsor.png"
 sponsor_url: "https://midatlanticdreamin.com/docs/MidAtlanticDreamin2023Prospectus.pdf"
 output: false
 enabled: false
-level: Trailblazer
+yearlevels: 
+    - 2023|Trailblazer
 ---

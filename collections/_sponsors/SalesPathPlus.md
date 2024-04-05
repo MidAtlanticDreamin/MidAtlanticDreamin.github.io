@@ -5,5 +5,6 @@ sponsor_url: "https://www.advancedsales.ai"
 output: false
 homepage: true
 enabled: true
-level: "Silver"
+yearlevels: 
+    - 2023|Silver
 ---

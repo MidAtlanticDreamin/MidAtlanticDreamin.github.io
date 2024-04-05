@@ -6,6 +6,7 @@ layout: session
 location: "Tasting Room"
 time: "11:40am — Noon"
 order: "C3b"
+edition: "2023"
 ---
 
 Delight your colleagues with UX upgrades from *How I Solved This* on the Admins blog. 

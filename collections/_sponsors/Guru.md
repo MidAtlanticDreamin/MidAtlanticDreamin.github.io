@@ -4,5 +4,5 @@ logo: "Guru.png"
 sponsor_url: "https://www.getguru.com/"
 output: false
 enabled: false
-level: ""
+yearlevels: ""
 ---
