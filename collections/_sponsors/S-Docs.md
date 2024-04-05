@@ -4,5 +4,6 @@ logo: "S-Docs.png"
 sponsor_url: "https://www.sdocs.com"
 output: false
 enabled: true
-level: "Bronze"
+yearlevels: 
+    - 2023|Bronze
 ---

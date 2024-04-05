@@ -3,6 +3,11 @@
     <div class="container carousel">
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
             {% for speaker in site.speakers %}
+            {% assign include_this_speaker = false %}
+            {% for session in site.sessions %}{% if session.speakers contains speaker.name %}{% if include.edition == session.edition or include.edition == "" or include.edition == nil %}
+            {% assign include_this_speaker = true %}
+            {% endif %}{% endif %}{% endfor %}
+            {% if include_this_speaker %}
             {% if include.keynote %}{% if speaker.keynote %}
             {% include tile-speaker.html 
                 name = speaker.name
@@ -17,7 +22,7 @@
                 headshot = speaker.headshot
                 url = speaker.url
             %}
-            {% endif %}{% endfor %}
+            {% endif %}{% endif %}{% endfor %}
         </div>
     </div>
 </div>

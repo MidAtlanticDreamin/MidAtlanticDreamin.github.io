@@ -5,5 +5,6 @@ sponsor_url: "https://www.valence.app"
 output: false
 homepage: true
 enabled: true
-level: "Platinum"
+yearlevels: 
+    - 2023|Platinum
 ---

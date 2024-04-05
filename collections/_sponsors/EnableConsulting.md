@@ -4,5 +4,6 @@ logo: "EnableConsulting.png"
 sponsor_url: "https://www.enableconsulting.com"
 output: false
 enabled: true
-level: "Bronze"
+yearlevels: 
+    - 2023|Bronze
 ---

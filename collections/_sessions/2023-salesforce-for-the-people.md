@@ -6,7 +6,7 @@ layout: session
 location: "Upstairs Loft"
 time: "2 — 2:45pm"
 order: "E2"
-
+edition: "2023"
 ---
 
 It is very easy to get so excited by the technology that you forget about who will be using it: People. We talk all day long about what the system needs and what the business wants that people often get left behind. So what do the people do? They dislike the tools they are given. They work around the system instead of in it. They have low morale and leave for greener pastures.

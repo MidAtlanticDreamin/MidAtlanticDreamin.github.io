@@ -4,5 +4,5 @@ logo: "Hike2.png"
 sponsor_url: "https://www.hike2.com/"
 output: false
 enabled: false
-level: ""
+yearlevels: ""
 ---

@@ -5,5 +5,6 @@ sponsor_url: "https://www.spekit.com"
 output: false
 homepage: true
 enabled: true
-level: "Platinum"
+yearlevels: 
+    - 2023|Platinum
 ---

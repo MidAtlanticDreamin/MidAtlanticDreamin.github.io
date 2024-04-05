@@ -4,5 +4,6 @@ logo: "Breadwinner.png"
 sponsor_url: "https://breadwinner.com"
 output: false
 enabled: true
-level: "Gold"
+yearlevels: 
+    - 2023|Gold
 ---

@@ -4,5 +4,6 @@ logo: "Fastcall.png"
 sponsor_url: "https://www.fastcall.com"
 output: false
 enabled: true
-level: "Silver"
+yearlevels: 
+    - 2023|Silver
 ---

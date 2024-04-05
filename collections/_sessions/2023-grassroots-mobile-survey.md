@@ -6,6 +6,7 @@ layout: session
 location: "Upstairs Loft"
 time: "1:25 — 1:45pm"
 order: "D2b"
+edition: "2023"
 ---
 
 Grassroots Mobile Survey started life as a proof of concept for a nonprofit in India that couldn't afford the tools needed for offline survey work. Recognizing the need for similar capabilities at other nonprofits, our all-volunteer team worked to have GRMS adopted by the Open Source Commons (OSC) with the goal of bringing affordable offline mobile field surveys to all nonprofits. The presentation is set in a real-life scenario in India. Health workers make their rounds armed with mobile phones to capture their data, and we're invited to tag along...

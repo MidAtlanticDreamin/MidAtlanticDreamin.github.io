@@ -5,5 +5,6 @@ sponsor_url: "https://www.withsecure.com/"
 output: false
 homepage: true
 enabled: true
-level: "Gold"
+yearlevels: 
+    - 2023|Gold
 ---

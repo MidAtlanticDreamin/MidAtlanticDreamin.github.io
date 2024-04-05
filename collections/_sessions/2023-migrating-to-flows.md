@@ -7,7 +7,7 @@ layout: session
 location: "Upstairs Loft"
 time: "11:15 — 11:35am"
 order: "C2a"
-
+edition: "2023"
 ---
 
 Are you ready to enhance your automation capabilities by replacing workflows and processes with flows? Join us in this Dreamin session as we guide you through the process of migrating workflows and processes to flows.

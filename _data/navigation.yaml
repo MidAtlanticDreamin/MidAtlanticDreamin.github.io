@@ -6,19 +6,19 @@ menu:
     disabled: false
   # - name: Agenda
   #   type: internal
-  #   url: "agenda.html"
+  #   url: "2024-agenda.html"
   #   external: false
   #   cta: false
   #   disabled: false
   # - name: Speakers
   #   type: internal
-  #   url: "speakers.html"
+  #   url: "2024-speakers.html"
   #   external: false
   #   cta: false
   #   disabled: false
   # - name: Sponsors
   #   type: internal
-  #   url: "sponsors.html"
+  #   url: "2024-sponsors.html"
   #   cta: false
   #   disabled: false
   - name: "Q&A"
@@ -32,12 +32,12 @@ menu:
     email_address: info@midatlanticdreamin.com
     cta: false
     disabled: false
-  - name: Submit a session
-    type: external
-    url: "https://forms.gle/8CVPsDgegeeNeiND6"
-    external: true
-    cta: true
-    disabled: false
+  # - name: Submit a session
+  #   type: external
+  #   url: "https://forms.gle/8CVPsDgegeeNeiND6"
+  #   external: true
+  #   cta: true
+  #   disabled: false
   - name: Become a Sponsor
     type: external
     url: "https://forms.gle/cNQ9nb2VCNqmNi2r6"
@@ -50,3 +50,16 @@ menu:
     external: true
     cta: true
     disabled: false
+  - name: Previous Years
+    type: internal
+    url: "#"
+    subitems:
+      - name: 2023 Speakers
+        type: internal
+        url: "2023-speakers.html"
+      - name: 2023 Agenda
+        type: internal
+        url: "2023-agenda.html"
+      - name: 2023 Sponsors
+        type: internal
+        url: "2023-sponsors.html"
