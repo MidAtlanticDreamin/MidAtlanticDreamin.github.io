@@ -2,7 +2,7 @@
 title: "Michael Kolodner"
 name: "Michael Kolodner"
 jobtitle: ""
-company: "Kolodner.com"
+company: "Kolodner LLC"
 headshot: "MichaelKolodner.jpg"
 social:
     - type: linkedin
@@ -12,4 +12,4 @@ layout: speaker
 description: ""
 ---
 
-Michael Kolodner is an independent nonprofit consultant. Salesforce MVP Hall of Fame, 10x certified, Trailhead addict, and active member of the Open Source Commons, Michael blogs about Salesforce in a nonprofit context at FreeLikeaPuppy.tech.
+I love to help nonprofits use technology and data to work efficiently, solve problems, and make the world a better place. I blog at FreeLikeaPuppy.tech and am a member of the Salesforce MVP Hall of Fame.
