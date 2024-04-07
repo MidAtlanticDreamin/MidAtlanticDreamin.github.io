@@ -42,14 +42,20 @@
 			</div>
 		</div>
 
+		{% assign has_session_this_year = false %}
+		{% for session in site.sessions %}{% if session.speakers contains page.name and session.edition == site.edition %}
+		{% assign has_session_this_year = true %}
+		{% endif %}{% endfor %}
+
+		{% if has_session_this_year %}
 		<hr>
-		<h2>Related Sessions</h2>
+		<h2>Sessions</h2>
 
 		<div class="schedule">
 			<div class="clearfix"></div>
 			<div class="sessions list">
 				<div class="session"></div>
-				{% for session in site.sessions %}{% if session.speakers contains page.name %}
+				{% for session in site.sessions %}{% if session.speakers contains page.name and session.edition == site.edition %}
 				{% include session.html
 						time = session.time
 						title = session.title
@@ -60,6 +66,32 @@
 				{% endif %}{% endfor %}
 			</div>
 		</div>
+		{% endif %}
+
+		{% assign has_session_in_previous_years = false %}
+		{% for session in site.sessions %}{% if session.speakers contains page.name and session.edition != site.edition %}
+		{% assign has_session_in_previous_years = true %}
+		{% endif %}{% endfor %}
+
+		{% if has_session_in_previous_years %}
+		<hr>
+		<h2>From previous years</h2>
+		<div class="schedule">
+			<div class="clearfix"></div>
+			<div class="sessions list">
+				<div class="session"></div>
+				{% for session in site.sessions %}{% if session.speakers contains page.name and session.edition != site.edition %}
+				{% include session.html
+						time = session.edition
+						title = session.title
+						location = ""
+						speakers = session.speakers
+						url = session.url
+				%}
+				{% endif %}{% endfor %}
+			</div>
+		{% endif %}
+
 
 	</div>
 	{% include footer.html %}
