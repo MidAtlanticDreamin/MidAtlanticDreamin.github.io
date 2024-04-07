@@ -5,9 +5,6 @@ jobtitle: ""
 company: "Hat-Trick Consulting"
 headshot: "AaronCrear.jpg"
 social:
-    - type: trailblazer
-      handle: "aaroncrear"
-      url: "https://trailblazer.me/id/aaroncrear"
     - type: linkedin
       handle: "aaroncrear"
       url: "https://www.linkedin.com/in/aaroncrear/"

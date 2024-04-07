@@ -2,7 +2,7 @@
 title: "Drive Salesforce Adoption with Influence (even if you’re not their manager)"
 speakers:
  - "Eric Dreshfield"
- - "Shannon Gregg"
+ - "Shannon J. Gregg, PhD"
 layout: session
 location: "Upstairs Loft"
 time: "1:45-2:30"

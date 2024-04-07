@@ -11,11 +11,8 @@ social:
     - type: linkedin
       handle: "michelleelizabethhansen"
       url: "https://www.linkedin.com/in/michelleelizabethhansen/"
-    - type: twitter
-      handle: "@mehansen82"
-      url: "https://twitter.com/mehansen82"
 layout: speaker
 description: ""
 ---
 
-Michelle is a 3x MVP and 20x Certified Golden Hoodie Recipient currently working as a Principal at Slalom. As a #Flownatic, she is also very active in the Salesforce community helping the next generation of Trailblazers succeed!
+Michelle is a 22x certified, 4x MVP and Golden Hoodie recipient who currently works for Slalom. Passionate about helping the next generation of trailblazers succeed, she is heavily involved in the Salesforce community and has presented at multiple Salesforce events, Dreamin conferences, and user groups across the world. 

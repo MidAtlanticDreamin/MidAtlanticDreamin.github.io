@@ -8,7 +8,7 @@ social:
     - type: linkedin
       handle: "healey-sutton-5250897"
       url: "https://www.linkedin.com/in/healey-sutton-5250897"
-    - type: trailhead
+    - type: trailblazer
       handle: "hsutton"
       url: "https://www.salesforce.com/trailblazer/hsutton"
 layout: speaker
