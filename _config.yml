@@ -30,6 +30,7 @@ github_username: jekyll
 social_logo: img/logo.svg
 metaKeywords: "event, salesforce, force.com, midatlantic dreaming, trailblazer, user conference"
 googleAnalyticsTrackingId: "UA-154567667-1"
+edition: "2024"
 
 collections:
   questions:
