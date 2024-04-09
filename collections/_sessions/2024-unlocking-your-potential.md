@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Potential: A Comprehensive Guide to Interviews"
 speakers:
-- "Michelle Hansen"
+ - "Michelle Hansen"
  - "Sarah Orens"
 layout: session
 location: "Upstairs Loft"
