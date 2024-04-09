@@ -6,7 +6,7 @@ company: "CapTech Consulting"
 headshot: "AavoReinvald.jpg"
 social:
     - type: linkedin
-      handle: "aaroncrear"
+      handle: "reinvald"
       url: "https://www.linkedin.com/in/reinvald"
 layout: speaker
 description: ""
