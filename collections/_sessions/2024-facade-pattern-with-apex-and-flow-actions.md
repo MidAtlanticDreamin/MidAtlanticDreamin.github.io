@@ -4,7 +4,7 @@ speakers:
  - "Adam Erstelle"
 layout: session
 location: "Main Downstairs"
-time: "1:45-2:05"
+time: "1:45 — 2:05pm"
 order: "E1a"
 edition: "2024"
 ---

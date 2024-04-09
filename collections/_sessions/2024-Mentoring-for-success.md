@@ -4,7 +4,7 @@ speakers:
  - "Judi Sohn"
 layout: session
 location: "Main Downstairs"
-time: "3:45-4:05"
+time: "3:45 — 4:05pm"
 order: "G1a"
 edition: "2024"
 ---

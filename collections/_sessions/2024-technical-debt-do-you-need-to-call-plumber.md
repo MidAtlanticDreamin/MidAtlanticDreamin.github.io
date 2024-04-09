@@ -4,7 +4,7 @@ speakers:
  - "Bill Hare"
 layout: session
 location: "Main Downstairs"
-time: "10:00-10:20"
+time: "10 — 10:20am"
 order: "B1a"
 edition: "2024"
 ---

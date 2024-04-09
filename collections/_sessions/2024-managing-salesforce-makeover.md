@@ -4,7 +4,7 @@ speakers:
  - "Lisa Firnberg"
 layout: session
 location: "Main Downstairs"
-time: "2:45-3:30"
+time: "2:45 — 3:30pm"
 order: "F1"
 edition: "2024"
 ---

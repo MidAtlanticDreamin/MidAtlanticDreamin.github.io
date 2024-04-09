@@ -4,7 +4,7 @@ speakers:
  - "Aaron Crear"
 layout: session
 location: "Upstairs Loft"
-time: "3:45-4:30"
+time: "3:45 — 4:30pm"
 order: "G2"
 edition: "2024"
 ---

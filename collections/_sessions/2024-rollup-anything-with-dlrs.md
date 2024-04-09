@@ -4,7 +4,7 @@ speakers:
  - "Shari Carlson"
 layout: session
 location: "Main Downstairs"
-time: "10:25-10:45"
+time: "10:25 — 10:45am"
 order: "B1b"
 edition: "2024"
 ---

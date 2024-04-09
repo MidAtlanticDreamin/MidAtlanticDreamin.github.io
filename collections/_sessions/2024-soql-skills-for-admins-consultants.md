@@ -4,7 +4,7 @@ speakers:
  - "Steven Trumble"
 layout: session
 location: "Upstairs Loft"
-time: "2:45-3:30"
+time: "2:45 — 3:30pm"
 order: "F2"
 edition: "2024"
 ---

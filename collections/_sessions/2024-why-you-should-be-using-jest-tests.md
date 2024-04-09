@@ -5,7 +5,7 @@ speakers:
  - "Aavo Reinvald"
 layout: session
 location: "Tasting Room"
-time: "10:00-10:45"
+time: "10 — 10:45am"
 order: "B3"
 edition: "2024"
 ---

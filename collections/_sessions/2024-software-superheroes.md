@@ -4,7 +4,7 @@ speakers:
  - "Aaron Crosman"
 layout: session
 location: "Tasting Room"
-time: "2:45-3:30"
+time: "2:45 — 3:30pm"
 order: "F3"
 edition: "2024"
 ---

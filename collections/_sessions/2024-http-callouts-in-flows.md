@@ -6,7 +6,7 @@ speakers:
  - "Aaron George"
 layout: session
 location: "Upstairs Loft"
-time: "12:00-12:45"
+time: "Noon — 12:45pm"
 order: "D2"
 edition: "2024"
 ---

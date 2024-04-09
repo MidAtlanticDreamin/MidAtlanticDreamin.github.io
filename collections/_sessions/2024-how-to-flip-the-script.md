@@ -4,7 +4,7 @@ speakers:
  - "Healey Sutton"
 layout: session
 location: "Main Downstairs"
-time: "2:10-2:30"
+time: "2:10 — 2:30pm"
 order: "E1b"
 edition: "2024"
 ---

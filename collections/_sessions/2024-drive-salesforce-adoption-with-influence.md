@@ -5,7 +5,7 @@ speakers:
  - "Shannon J. Gregg, PhD"
 layout: session
 location: "Upstairs Loft"
-time: "1:45-2:30"
+time: "1:45 — 2:30pm"
 order: "E2"
 edition: "2024"
 ---

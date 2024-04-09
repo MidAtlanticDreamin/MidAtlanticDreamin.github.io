@@ -4,7 +4,7 @@ speakers:
  - "Christine Stevens"
 layout: session
 location: "Tasting Room"
-time: "1:45-2:30"
+time: "1:45 — 2:30pm"
 order: "E3"
 edition: "2024"
 ---

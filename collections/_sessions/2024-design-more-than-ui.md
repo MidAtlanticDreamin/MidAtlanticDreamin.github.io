@@ -4,7 +4,7 @@ speakers:
  - "Pallavi Agarwal"
 layout: session
 location: "Tasting Room"
-time: "11:05-11:50"
+time: "11:05 — 11:50am"
 order: "C3"
 edition: "2024"
 ---

@@ -4,7 +4,7 @@ speakers:
  - "Bill Powell"
 layout: session
 location: "Main Downstairs"
-time: "4:10-4:30"
+time: "4:10 — 4:30pm"
 order: "G1b"
 edition: "2024"
 ---

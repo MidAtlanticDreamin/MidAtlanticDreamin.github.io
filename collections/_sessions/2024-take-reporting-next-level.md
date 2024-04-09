@@ -4,7 +4,7 @@ speakers:
  - "David Carnes"
 layout: session
 location: "Upstairs Loft"
-time: "10:00-10:45"
+time: "10 — 10:45am"
 order: "B2"
 edition: "2024"
 ---

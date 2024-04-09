@@ -5,7 +5,7 @@ speakers:
  - "Chris Auger"
 layout: session
 location: "Main Upstairs"
-time: "12:00-12:20"
+time: "Noon — 12:20pm"
 order: "D1a"
 edition: "2024"
 ---

@@ -5,7 +5,7 @@ speakers:
  - "Sarah Orens"
 layout: session
 location: "Upstairs Loft"
-time: "11:05-11:50"
+time: "11:05 — 11:50am"
 order: "C2"
 edition: "2024"
 ---

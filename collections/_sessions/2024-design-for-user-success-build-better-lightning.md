@@ -4,7 +4,7 @@ speakers:
  - "Michael Kolodner"
 layout: session
 location: "Main Downstairs"
-time: "12:25-12:45"
+time: "12:25 — 12:45pm"
 order: "D1b"
 edition: "2024"
 ---

@@ -4,7 +4,7 @@ speakers:
  - "Chris Pifer"
 layout: session
 location: "Tasting Room"
-time: "3:45-4:30"
+time: "3:45 — 4:30pm"
 order: "G3"
 edition: "2024"
 ---
