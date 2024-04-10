@@ -1,10 +1,10 @@
 ---
-title: "\"You keep using that word…\" The real meaning of \"declarative\""
+title: "<i>\"You keep using that word…\"</i> — The real meaning of \"declarative\""
 speakers:
  - "Andrés Catalán"
 layout: session
 location: "Tasting Room"
-time: "12:00 — 12:45pm"
+time: "Noon — 12:45pm"
 order: "D3"
 edition: "2024"
 ---
