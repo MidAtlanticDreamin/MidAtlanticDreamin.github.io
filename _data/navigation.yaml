@@ -4,18 +4,18 @@ menu:
     url: ""
     cta: false
     disabled: false
-  # - name: Agenda
-  #   type: internal
-  #   url: "2024-agenda.html"
-  #   external: false
-  #   cta: false
-  #   disabled: false
-  # - name: Speakers
-  #   type: internal
-  #   url: "2024-speakers.html"
-  #   external: false
-  #   cta: false
-  #   disabled: false
+  - name: Agenda
+    type: internal
+    url: "2024-agenda.html"
+    external: false
+    cta: false
+    disabled: false
+  - name: Speakers
+    type: internal
+    url: "2024-speakers.html"
+    external: false
+    cta: false
+    disabled: false
   # - name: Sponsors
   #   type: internal
   #   url: "2024-sponsors.html"
@@ -50,16 +50,16 @@ menu:
     external: true
     cta: true
     disabled: false
-  - name: Previous Years
+  - name: 2023
     type: internal
     url: "#"
     subitems:
-      - name: 2023 Speakers
+      - name: Speakers
         type: internal
         url: "2023-speakers.html"
-      - name: 2023 Agenda
+      - name: Agenda
         type: internal
         url: "2023-agenda.html"
-      - name: 2023 Sponsors
+      - name: Sponsors
         type: internal
         url: "2023-sponsors.html"
