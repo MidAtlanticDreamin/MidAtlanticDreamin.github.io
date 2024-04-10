@@ -1,5 +1,5 @@
 ---
-title: "<i>\"You keep using that word…\"</i> — The real meaning of \"declarative\""
+title: "<i>You keep using that word...</i><br/>\"Declarative\", and what it actually means"
 speakers:
  - "Andrés Catalán"
 layout: session
