@@ -1,5 +1,5 @@
 ---
-title: "Technical debt In Salesforce: Do you need to call a plumber for your org?"
+title: "Technical debt in Salesforce: Do you need to call a plumber for your org?"
 speakers:
  - "Bill Hare"
 layout: session

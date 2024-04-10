@@ -1,5 +1,5 @@
 ---
-title: "Career/Resume/Interview Counseling"
+title: "Career, résumé, and interview counseling"
 layout: session
 location: "Barrel Room"
 time: "1:45 — 2:30pm"

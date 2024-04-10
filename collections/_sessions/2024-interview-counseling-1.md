@@ -1,5 +1,5 @@
 ---
-title: "Interview Counseling"
+title: "Interview counseling"
 layout: session
 location: "Barrel Room"
 time: "11:05 — 11:50am"

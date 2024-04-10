@@ -1,5 +1,5 @@
 ---
-title: "Speed Networking / Mentoring"
+title: "Speed networking and mentoring"
 layout: session
 location: "Barrel Room"
 time: "Noon — 12:45pm"

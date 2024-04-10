@@ -1,5 +1,5 @@
 ---
-title: "SOQL skills for Admins and Consultants"
+title: "SOQL skills for admins and consultants"
 speakers:
  - "Steven Trumble"
 layout: session
