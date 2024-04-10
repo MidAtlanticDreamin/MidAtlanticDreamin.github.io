@@ -5,9 +5,6 @@ jobtitle: ""
 company: "Hat-Trick Consulting"
 headshot: "AaronCrear.jpg"
 social:
-    - type: trailblazer
-      handle: "aaroncrear"
-      url: "https://trailblazer.me/id/aaroncrear"
     - type: linkedin
       handle: "aaroncrear"
       url: "https://www.linkedin.com/in/aaroncrear/"
@@ -18,4 +15,4 @@ layout: speaker
 description: ""
 ---
 
-Aaron is Founder & Principal at Hat-Trick Consulting.  He currently holds nine Salesforce certifications. Aaron is also the leader of the Lowell, MA Admins Community Group, co-organizer of Northeast Dreamin’ and co-founder of ReportForce.Blog.
+Aaron is Founder & Principal at Hat-Trick Consulting. He works with companies around the world to help them achieve their Salesforce goals through administration, development and training services. Aaron currently holds ten Salesforce certifications. He is also the leader of the Lowell, MA Admins Community Group, Co-Organizer of Northeast Dreamin’ and Co-Founder of ReportForce.Blog. He is a frequent speaker, having presented over fifty times at Salesforce community events around the world.

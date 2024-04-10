@@ -1,0 +1,12 @@
+---
+title: "How to flip the script after 20 years in a different field"
+speakers:
+ - "Healey Sutton"
+layout: session
+location: "Main Downstairs"
+time: "2:10 — 2:30pm"
+order: "E1b"
+edition: "2024"
+---
+
+I spent 20 years working in accounting and finance. In my last role, I ended up as a very reluctant ‘accidental admin’. In this session I will share how I leveraged LinkedIn, while keeping my job search on the D-L, and leveraged my prior experience and education. Let’s discuss how to update your profile to target roles in the Salesforce ecosystem. After meeting with many companies, I landed my first Salesforce role at a great company.
