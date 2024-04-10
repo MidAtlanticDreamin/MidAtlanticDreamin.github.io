@@ -1,5 +1,5 @@
 ---
-title: "Advanced Reporting Tips And Tricks For New Admins"
+title: "Advanced reporting tips and tricks for new admins"
 speakers:
  - "Aaron Crear"
 layout: session

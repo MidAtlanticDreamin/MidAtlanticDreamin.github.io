@@ -1,5 +1,5 @@
 ---
-title: "Software Superheroes: Build the tools you wish existed!"
+title: "Software superheroes: Build the tools you wish existed!"
 speakers:
  - "Aaron Crosman"
 layout: session

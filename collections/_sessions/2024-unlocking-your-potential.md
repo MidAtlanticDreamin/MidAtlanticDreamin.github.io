@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Your Potential: A Comprehensive Guide to Interviews"
+title: "Unlocking your potential: A comprehensive guide to interviews"
 speakers:
  - "Michelle Hansen"
  - "Sarah Orens"

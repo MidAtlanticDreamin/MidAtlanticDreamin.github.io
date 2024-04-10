@@ -1,5 +1,5 @@
 ---
-title: "Design for User Success: Build Better Lightning Record Pages"
+title: "Design for user success: Build better Lightning Record Pages"
 speakers:
  - "Michael Kolodner"
 layout: session

@@ -1,5 +1,5 @@
 ---
-title: "Design is More Than UI: How to Architect Solutions That Scale"
+title: "Design is more than UI: How to architect solutions that scale"
 speakers:
  - "Pallavi Agarwal"
 layout: session

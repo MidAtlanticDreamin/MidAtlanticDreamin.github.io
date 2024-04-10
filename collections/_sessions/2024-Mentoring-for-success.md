@@ -1,5 +1,5 @@
 ---
-title: "Mentoring for Success: Guiding the Next Generation of Salesforce Professionals"
+title: "Mentoring for success: Guiding the next generation of Salesforce professionals"
 speakers:
  - "Judi Sohn"
 layout: session

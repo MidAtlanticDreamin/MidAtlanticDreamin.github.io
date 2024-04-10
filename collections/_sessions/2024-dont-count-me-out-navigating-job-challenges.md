@@ -1,5 +1,5 @@
 ---
-title: "Don't Count Me Out: Navigating Job Market Challenges with Mental Resilience"
+title: "Don't count me out navigating job market challenges with mental resilience"
 speakers:
  - "Christine Stevens"
 layout: session

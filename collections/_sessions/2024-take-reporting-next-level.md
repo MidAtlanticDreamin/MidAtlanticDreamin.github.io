@@ -1,5 +1,5 @@
 ---
-title: "Take Your Reporting to the Next Level"
+title: "Take Your reporting to the next level"
 speakers:
  - "David Carnes"
 layout: session

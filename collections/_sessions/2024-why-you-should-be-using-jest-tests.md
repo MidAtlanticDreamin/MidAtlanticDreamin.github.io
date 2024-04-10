@@ -1,5 +1,5 @@
 ---
-title: "Why You Should Be Using Jest Tests on LWCs"
+title: "Why you should Be using Jest Tests on LWCs"
 speakers:
  - "Crystal Harris"
  - "Aavo Reinvald"

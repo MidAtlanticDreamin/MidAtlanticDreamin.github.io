@@ -1,5 +1,5 @@
 ---
-title: "Automate Your Testing with Flows"
+title: "Automate your testing with flows"
 speakers:
  - "Chris Pifer"
 layout: session

@@ -1,5 +1,5 @@
 ---
-title: "Rollup Anything with DLRS"
+title: "Rollup anything with DLRS"
 speakers:
  - "Shari Carlson"
 layout: session

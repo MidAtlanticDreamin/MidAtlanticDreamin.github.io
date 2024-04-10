@@ -1,5 +1,5 @@
 ---
-title: "Façade Pattern with Apex and Flow Actions"
+title: "Façade pattern with Apex and Flow Actions"
 speakers:
  - "Adam Erstelle"
 layout: session

@@ -1,5 +1,5 @@
 ---
-title: "Drive Salesforce Adoption with Influence (even if you’re not their manager)"
+title: "Drive salesforce adoption with influence (even if you're not their manager)"
 speakers:
  - "Eric Dreshfield"
  - "Shannon J. Gregg, PhD"

@@ -1,5 +1,5 @@
 ---
-title: "HTTP Callouts in Flows: The Ultimate Salesforce Game Changer"
+title: "HTTP callouts in Flows: The ultimate Salesforce game changer"
 speakers:
  - "Avash Chapagain"
  - "Renee Theis"

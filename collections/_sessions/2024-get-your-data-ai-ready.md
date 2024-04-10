@@ -1,5 +1,5 @@
 ---
-title: "Get Your Data AI Ready Using Native Tools"
+title: "Get your data AI ready using native tools"
 speakers:
  - "Christina Tomaselli"
  - "Chris Auger"

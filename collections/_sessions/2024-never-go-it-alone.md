@@ -1,5 +1,5 @@
 ---
-title: "Never Go It Alone : Guidance For Independent Consultants"
+title: "Never go it alone: Guidance For independent consultants"
 speakers:
  - "Bill Powell"
 layout: session

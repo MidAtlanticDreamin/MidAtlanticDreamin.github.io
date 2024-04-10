@@ -1,5 +1,5 @@
 ---
-title: "How to Flip the Script after 20 Years in a Different Field"
+title: "How to flip the script after 20 years in a different field"
 speakers:
  - "Healey Sutton"
 layout: session

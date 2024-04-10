@@ -1,5 +1,5 @@
 ---
-title: "Managing a Salesforce Makeover"
+title: "Managing a Salesforce makeover"
 speakers:
  - "Lisa Firnberg"
 layout: session
