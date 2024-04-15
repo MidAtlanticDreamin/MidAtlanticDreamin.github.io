@@ -1,5 +1,5 @@
 ---
-title: "Career, résumé, and interview counseling"
+title: "Interview counseling, with the Trailblazer Community"
 layout: session
 location: "Barrel Room"
 time: "1:45 — 2:30pm"
