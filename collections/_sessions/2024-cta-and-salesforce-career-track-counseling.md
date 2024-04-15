@@ -1,5 +1,5 @@
 ---
-title: "CTA and Salesforce career track counseling"
+title: "Ask a CTA: CTA and Salesforce career track counseling"
 layout: session
 location: "Barrel Room"
 time: "10 — 10:45am"
