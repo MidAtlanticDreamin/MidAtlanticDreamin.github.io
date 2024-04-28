@@ -7,16 +7,16 @@ edition: "2024"
 ---
 <div class="container-flex">
     {% include tiles-sponsor.html 
-            title = "Platinum"
-            level = "Platinum"
+            title = "Diamond"
+            level = "Diamond"
             edition = page.edition
     %}
 </div>
 
 <div class="container-flex">
     {% include tiles-sponsor.html 
-            title = "Gold"
-            level = "Gold"
+            title = "Platinum"
+            level = "Platinum"
             edition = page.edition
     %}
 </div>
@@ -31,8 +31,24 @@ edition: "2024"
 
 <div class="container-flex">
     {% include tiles-sponsor.html 
-            title = "Supporting Sponsors"
+            title = "Bronze"
             level = "Bronze"
+            edition = page.edition
+    %}
+</div>
+
+<div class="container-flex">
+    {% include tiles-sponsor.html 
+            title = "Supporting Sponsors"
+            level = "Supporting"
+            edition = page.edition
+    %}
+</div>
+
+<div class="container-flex">
+    {% include tiles-sponsor.html 
+            title = "Trailblazer Community"
+            level = "Trailblazer Community"
             edition = page.edition
     %}
 </div>

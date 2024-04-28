@@ -16,11 +16,11 @@ menu:
     external: false
     cta: false
     disabled: false
-  # - name: Sponsors
-  #   type: internal
-  #   url: "2024-sponsors.html"
-  #   cta: false
-  #   disabled: false
+  - name: Sponsors
+    type: internal
+    url: "2024-sponsors.html"
+    cta: false
+    disabled: false
   - name: "Q&A"
     type: internal
     url: "q-and-a.html"
