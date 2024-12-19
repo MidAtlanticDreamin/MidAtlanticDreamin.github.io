@@ -44,25 +44,25 @@ menu:
     external: true
     cta: true
     disabled: false
-  # - name: Register
-  #   type: external
-  #   url: "https://midatlanticdreamin.ticketleap.com/2024/"
-  #   external: true
-  #   cta: true
-  #   disabled: false
-  - name: 2023
-    type: internal
-    url: "#"
-    subitems:
-      - name: Speakers
-        type: internal
-        url: "2023-speakers.html"
-      - name: Agenda
-        type: internal
-        url: "2023-agenda.html"
-      - name: Sponsors
-        type: internal
-        url: "2023-sponsors.html"
+  - name: Register
+    type: external
+    url: "http://midatlanticdreamin.ticketleap.com/mad-2025/"
+    external: true
+    cta: true
+    disabled: false
+  # - name: 2023
+  #   type: internal
+  #   url: "#"
+  #   subitems:
+  #     - name: Speakers
+  #       type: internal
+  #       url: "2023-speakers.html"
+  #     - name: Agenda
+  #       type: internal
+  #       url: "2023-agenda.html"
+  #     - name: Sponsors
+  #       type: internal
+  #       url: "2023-sponsors.html"
   - name: 2024
     type: internal
     url: "#"
