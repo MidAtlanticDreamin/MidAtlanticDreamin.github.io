@@ -32,12 +32,12 @@ menu:
     email_address: info@midatlanticdreamin.com
     cta: false
     disabled: false
-  - name: Submit a session
-    type: external
-    url: "https://forms.gle/z7FgUyZv2tXi4qgK8"
-    external: true
-    cta: true
-    disabled: false
+  # name: Submit a session
+    # type: external
+    # url: "https://forms.gle/z7FgUyZv2tXi4qgK8"
+    # external: true
+    # cta: true
+    # disabled: false
   - name: Become a Sponsor
     type: external
     url: "https://forms.gle/cNQ9nb2VCNqmNi2r6"
