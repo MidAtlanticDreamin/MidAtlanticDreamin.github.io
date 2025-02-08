@@ -38,9 +38,9 @@ menu:
     # external: true
     # cta: true
     # disabled: false
-  - name: Become a Sponsor
+  - name: Sponsor Info
     type: external
-    url: "https://forms.gle/cNQ9nb2VCNqmNi2r6"
+    url: "https://docs.google.com/document/d/1U7-MRtWBtlEQLMjH9xrtifCDn2qAW9abgEu7MYgrs6I/edit?tab=t.0"
     external: true
     cta: true
     disabled: false
