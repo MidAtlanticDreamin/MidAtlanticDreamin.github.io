@@ -4,23 +4,23 @@ menu:
     url: ""
     cta: false
     disabled: false
-  # - name: Agenda
-  #   type: internal
-  #   url: "2024-agenda.html"
-  #   external: false
-  #   cta: false
-  #   disabled: false
-  # - name: Speakers
-  #   type: internal
-  #   url: "2024-speakers.html"
-  #   external: false
-  #   cta: false
-  #   disabled: false
-  # - name: Sponsors
-  #   type: internal
-  #   url: "2024-sponsors.html"
-  #   cta: false
-  #   disabled: false
+  - name: Agenda
+    type: internal
+    url: "2025-agenda.html"
+    external: false
+    cta: false
+    disabled: false
+  - name: Speakers
+    type: internal
+    url: "2025-speakers.html"
+    external: false
+    cta: false
+    disabled: false
+  - name: Sponsors
+    type: internal
+    url: "2025-sponsors.html"
+    cta: false
+    disabled: false
   - name: "Q&A"
     type: internal
     url: "q-and-a.html"
