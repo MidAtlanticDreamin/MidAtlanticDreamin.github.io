@@ -5,7 +5,7 @@ speakers:
 layout: session
 location: "Main Downstairs"
 time: "10 — 10:20am"
-order: "B1"
+order: "B1a"
 edition: "2025"
 ---
 
