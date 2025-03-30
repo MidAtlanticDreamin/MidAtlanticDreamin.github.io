@@ -1,9 +1,9 @@
 ---
 title: "Melissa Shepard"
 name: "Melissa Shepard"
-jobtitle: ""
-company: "Lizztech Consulting"
-headshot: "MelissaShepard.jpg"
+jobtitle: "Co-Founder & Managing Architect"
+company: "Maple Digital Transformation"
+headshot: "MelissaShepard.jpeg"
 social:
     - type: trailblazer
       handle: "melissashepard"
