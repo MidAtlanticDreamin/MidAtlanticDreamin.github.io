@@ -1,8 +1,8 @@
 ---
 title: "Mike DeMaria"
 name: "Mike DeMaria"
-jobtitle: ""
-company: "Equitable"
+jobtitle: "Principal Consultant/Founder"
+company: "Second Quest Consulting"
 headshot: "MikeDeMaria.jpg"
 social:
     - type: linkedin

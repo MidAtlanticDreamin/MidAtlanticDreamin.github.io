@@ -1,7 +1,7 @@
 ---
 title: "Aaron Crear"
 name: "Aaron Crear"
-jobtitle: ""
+jobtitle: "Founder & Principal Consultant"
 company: "Hat-Trick Consulting"
 headshot: "AaronCrear.jpg"
 social:
