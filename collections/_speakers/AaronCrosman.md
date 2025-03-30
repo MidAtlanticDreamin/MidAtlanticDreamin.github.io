@@ -1,7 +1,7 @@
 ---
 title: "Aaron Crosman"
 name: "Aaron Crosman"
-jobtitle: ""
+jobtitle: "Technical Architect"
 company: "Coastal Cloud"
 headshot: "AaronCrosman.jpg"
 social:

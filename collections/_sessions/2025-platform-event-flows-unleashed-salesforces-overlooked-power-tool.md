@@ -3,7 +3,7 @@ title: "Platform Event Flows Unleashed: Salesforce’s Overlooked Power Tool"
 speakers:
  - "Michael Farrelly"
 layout: session
-location: "Upstairs Loft"
+location: "Tasting Room"
 time: "10:25 — 10:45am"
 order: "B3b"
 edition: "2025"
