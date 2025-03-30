@@ -1,9 +1,9 @@
 ---
 title: "Michelle Hansen"
 name: "Michelle Hansen"
-jobtitle: ""
+jobtitle: "Principal"
 company: "Slalom"
-headshot: "MichelleHansen.jpg"
+headshot: "MichelleHansen.jpeg"
 social:
     - type: trailblazer
       handle: "michellehansen"

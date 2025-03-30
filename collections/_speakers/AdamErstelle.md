@@ -1,9 +1,9 @@
 ---
 title: "Adam Erstelle"
 name: "Adam Erstelle"
-jobtitle: ""
+jobtitle: "Senior Technical Architect"
 company: "Palladin Technologies"
-headshot: "AdamErstelle.jpg"
+headshot: "AdamErstelle.jpeg"
 social:
     - type: linkedin
       handle: "adamerstelle"

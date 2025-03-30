@@ -1,8 +1,8 @@
 ---
 title: "Judi Sohn"
 name: "Judi Sohn"
-jobtitle: "Principal Solution Consultant"
-company: "Beyond The Horizon Technology"
+jobtitle: "Delivery Lead"
+company: "Elevation Solutions"
 headshot: "JudiSohn.jpg"
 social:
     - type: trailblazer
