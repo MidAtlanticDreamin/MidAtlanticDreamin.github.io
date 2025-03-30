@@ -1,6 +1,6 @@
 ---
 sponsor_name: Form Assembly
-logo: FormAssembly.png
+logo: FormAssembly.svg
 sponsor_url: https://www.formassembly.com
 output: false
 homepage: true
