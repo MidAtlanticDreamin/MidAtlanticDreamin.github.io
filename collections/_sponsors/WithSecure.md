@@ -8,4 +8,5 @@ enabled: true
 yearlevels: 
     - 2023|Gold
     - 2024|Bronze
+    - 2025|Bronze
 ---
