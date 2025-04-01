@@ -1,5 +1,7 @@
 ---
 title: "Ask an Expert"
+speakers:
+ - ""
 layout: session
 location: "Barrel Room"
 time: "2:45 — 3:30pm"
