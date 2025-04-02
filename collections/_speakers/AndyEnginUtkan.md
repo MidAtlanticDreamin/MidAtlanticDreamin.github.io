@@ -2,7 +2,7 @@
 title: "Andy Engin Utkan"
 name: "Andy Engin Utkan"
 jobtitle: "Founder"
-company: "Flow Canvas, Salesforce Break, and BRDPro Consulting"
+company: "Flow Canvas Support"
 headshot: "EnginUtkan.jpeg"
 social:
     - type: linkedin
