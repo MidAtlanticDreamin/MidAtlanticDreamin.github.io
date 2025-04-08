@@ -1,6 +1,6 @@
 ---
 sponsor_name: "FlexiKanban"
-logo: "Flexikanban.png"
+logo: "FlexikanbanSquare.png"
 sponsor_url: "https://flexikanban.com/"
 output: false
 enabled: true
