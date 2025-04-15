@@ -2,7 +2,6 @@
 title: "10 Expert Tips for Stellar Salesforce Solution Demos"
 speakers:
  - "Oleh Mykytyn"
- - "Nazar Mykytyn"
 layout: session
 location: "Upstairs Loft"
 time: "2:45 — 3:05pm"
