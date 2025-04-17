@@ -23,6 +23,14 @@ edition: "2025"
 
 <div class="container-flex">
     {% include tiles-sponsor.html 
+            title = "Gold"
+            level = "Gold"
+            edition = page.edition
+    %}
+</div>
+
+<div class="container-flex">
+    {% include tiles-sponsor.html 
             title = "Silver"
             level = "Silver"
             edition = page.edition
