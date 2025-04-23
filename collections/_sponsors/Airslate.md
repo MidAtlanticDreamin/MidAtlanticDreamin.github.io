@@ -6,5 +6,5 @@ output: false
 homepage: true
 enabled: true
 yearlevels: 
-    - 2|Diamond
+    - 2025|Diamond
 ---
