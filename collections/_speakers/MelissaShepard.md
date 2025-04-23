@@ -18,4 +18,4 @@ layout: speaker
 description: ""
 ---
 
-Melissa is a CTA, 32x Salesforce certified, CEO of Lizztech Consulting, founder of ScaleUp Archs & Architect Ohana Slack, Golden Hoodie, Mulesoft Ambassador, co-leads Boston Architect Community Group, is a Trailblazer Mentor and Dreamin organizer.
+Melissa is 38x Salesforce & MuleSoft certified CTA & MVP, MuleSoft Ambassador, Marketing Champion, Golden Hoodie, founder of ScaleUp Archs & Architect Ohana Slack, co-leads of Boston Architect Community Group, Architect Dreamin Co-Founder/organizer and Northeast Dreamin organizer.
