@@ -4,8 +4,8 @@ speakers:
  - "Daniel Gorton"
 layout: session
 location: "Main Downstairs"
-time: "11:05 — 11:50am"
-order: "C1"
+time: "2:45 — 3:30pm"
+order: "F1"
 edition: "2025"
 ---
 

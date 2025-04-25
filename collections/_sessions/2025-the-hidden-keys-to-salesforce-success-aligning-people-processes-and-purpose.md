@@ -4,8 +4,8 @@ speakers:
  - "Rubin Singh"
 layout: session
 location: "Main Downstairs"
-time: "2:45 — 3:30pm"
-order: "F1"
+time: "11:05 — 11:50am"
+order: "C1"
 edition: "2025"
 ---
 
