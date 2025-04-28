@@ -47,7 +47,7 @@ edition: "2025"
 
 <div class="container-flex">
     {% include tiles-sponsor.html 
-            title = "Supporting Sponsors"
+            title = "Spotlight Bar Sponsor"
             level = "Supporting"
             edition = page.edition
     %}
