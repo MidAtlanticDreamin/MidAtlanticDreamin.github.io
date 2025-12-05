@@ -9,18 +9,18 @@ menu:
     url: "2025-agenda.html"
     external: false
     cta: false
-    disabled: false
+    disabled: true
   - name: Speakers
     type: internal
     url: "2025-speakers.html"
     external: false
     cta: false
-    disabled: false
+    disabled: true
   - name: Sponsors
     type: internal
     url: "2025-sponsors.html"
     cta: false
-    disabled: false
+    disabled: true
   - name: "Q&A"
     type: internal
     url: "q-and-a.html"
