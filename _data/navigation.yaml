@@ -32,7 +32,7 @@ menu:
     email_address: info@midatlanticdreamin.com
     cta: false
     disabled: false
-  # name: Submit a session
+  #- name: Submit a session
     # type: external
     # url: "https://forms.gle/z7FgUyZv2tXi4qgK8"
     # external: true
@@ -44,35 +44,22 @@ menu:
     external: true
     cta: true
     disabled: false
-  - name: Register
-    type: external
-    url: "http://midatlanticdreamin.ticketleap.com/mad-2025/"
-    external: true
-    cta: true
-    disabled: false
-  # - name: 2023
-  #   type: internal
-  #   url: "#"
-  #   subitems:
-  #     - name: Speakers
-  #       type: internal
-  #       url: "2023-speakers.html"
-  #     - name: Agenda
-  #       type: internal
-  #       url: "2023-agenda.html"
-  #     - name: Sponsors
-  #       type: internal
-  #       url: "2023-sponsors.html"
-  - name: 2024
+  #- name: Register
+    # type: external
+    # url: "http://midatlanticdreamin.ticketleap.com/mad-2025/"
+    # external: true
+    # cta: true
+    # disabled: false
+  - name: 2025
     type: internal
     url: "#"
     subitems:
       - name: Speakers
         type: internal
-        url: "2024-speakers.html"
+        url: "2025-speakers.html"
       - name: Agenda
         type: internal
-        url: "2024-agenda.html"
+        url: "2025-agenda.html"
       - name: Sponsors
         type: internal
-        url: "2024-sponsors.html"
+        url: "2025-sponsors.html"
