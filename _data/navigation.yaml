@@ -44,12 +44,12 @@ menu:
     external: true
     cta: true
     disabled: false
-  #- name: Register
-    # type: external
-    # url: "http://midatlanticdreamin.ticketleap.com/mad-2025/"
-    # external: true
-    # cta: true
-    # disabled: false
+  - name: Register
+    type: external
+    url: "https://www.ticketleap.events/tickets/midatlanticdreamin/midatlantic-dreamin-2026"
+    external: true
+    cta: true
+    disabled: false
   - name: 2025
     type: internal
     url: "#"
