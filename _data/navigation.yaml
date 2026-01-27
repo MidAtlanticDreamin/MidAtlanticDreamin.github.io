@@ -32,12 +32,6 @@ menu:
     email_address: info@midatlanticdreamin.com
     cta: false
     disabled: false
-  #- name: Submit a session
-    # type: external
-    # url: "https://forms.gle/z7FgUyZv2tXi4qgK8"
-    # external: true
-    # cta: true
-    # disabled: false
   - name: Sponsor Info
     type: external
     url: "./docs/MidAtlanticDreamin2026Prospectus.pdf"
@@ -47,6 +41,12 @@ menu:
   - name: Register
     type: external
     url: "https://www.ticketleap.events/tickets/midatlanticdreamin/midatlantic-dreamin-2026"
+    external: true
+    cta: true
+    disabled: false
+  - name: Call For Speakers
+    type: external
+    url: "https://midatlanticdreamin.my.site.com/call-for-speakers"
     external: true
     cta: true
     disabled: false
