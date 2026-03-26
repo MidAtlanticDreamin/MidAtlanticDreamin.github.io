@@ -6,4 +6,5 @@ output: false
 enabled: true
 yearlevels: 
     - 2025|Silver
+    - 2026|Silver
 ---

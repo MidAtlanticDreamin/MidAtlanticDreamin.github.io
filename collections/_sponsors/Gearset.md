@@ -7,4 +7,5 @@ homepage: true
 enabled: true
 yearlevels: 
     - 2024|Silver
+    - 2026|Tasting
 ---

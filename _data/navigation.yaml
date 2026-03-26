@@ -16,11 +16,11 @@ menu:
   #  external: false
   #  cta: false
   #  disabled: false
-  #- name: Sponsors
-  #  type: internal
-  #  url: "2025-sponsors.html"
-  #  cta: false
-  #  disabled: false
+  - name: Sponsors
+    type: internal
+    url: "2026-sponsors.html"
+    cta: true
+    disabled: false
   - name: "Q&A"
     type: internal
     url: "q-and-a.html"
@@ -32,24 +32,24 @@ menu:
     email_address: info@midatlanticdreamin.com
     cta: false
     disabled: false
-  - name: Sponsor Info
-    type: external
-    url: "./docs/MidAtlanticDreamin2026Prospectus.pdf"
-    external: true
-    cta: true
-    disabled: false
+  #- name: Sponsor Info
+  #  type: external
+  #  url: "./docs/MidAtlanticDreamin2026Prospectus.pdf"
+  #  external: true
+  #  cta: true
+  #  disabled: false
   - name: Register
     type: external
     url: "https://www.ticketleap.events/tickets/midatlanticdreamin/midatlantic-dreamin-2026"
     external: true
     cta: true
     disabled: false
-  - name: Call For Speakers
-    type: external
-    url: "https://midatlanticdreamin.my.site.com/call-for-speakers"
-    external: true
-    cta: true
-    disabled: false
+  #- name: Call For Speakers
+  #  type: external
+  #  url: "https://midatlanticdreamin.my.site.com/call-for-speakers"
+  #  external: true
+  #  cta: true
+  #  disabled: false
   - name: 2025
     type: internal
     url: "#"

@@ -7,4 +7,5 @@ enabled: true
 yearlevels:
     - 2024|Supporting
     - 2025|Supporting
+    - 2026|Bronze
 ---
