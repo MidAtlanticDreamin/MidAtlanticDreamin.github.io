@@ -1,7 +1,7 @@
 ---
 question: "Is there a block of hotel rooms available?"
 section: "General"
-order: 4
+order: 6
 code: V1
 ---
 
