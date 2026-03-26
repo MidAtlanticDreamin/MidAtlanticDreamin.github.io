@@ -5,7 +5,7 @@ description: ""
 published: true
 edition: "2026"
 ---
-<div class="container-flex">
+<div class="container title">
     <p>We are still accepting sponsorships for this year's event. <a href="./docs/MidAtlanticDreamin2026Prospectus.pdf">Check out the 2026 Prospectus</a></p>
 </div>
 
