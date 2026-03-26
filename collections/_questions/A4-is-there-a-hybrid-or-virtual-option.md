@@ -1,8 +1,8 @@
 ---
-question: "Will the in-person event be free?"
+question: "Is there a hybrid or virtual option?"
 section: "General"
-order: 3
-code: G3
+order: 4
+code: G4
 ---
 
-We do have a registration fee that helps contribute towards the cost of the space we host the event and food provided.
+We are not offering a hybrid or virtual experience for this event. All sessions will only be presented live.
