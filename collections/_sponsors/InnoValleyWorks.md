@@ -6,5 +6,5 @@ output: false
 homepage: true
 enabled: true
 yearlevels: 
-    - 2026|Bronze
+    
 ---

@@ -7,4 +7,5 @@ homepage: true
 enabled: true
 yearlevels: 
     - 2025|Bronze
+    - 2026|Silver
 ---

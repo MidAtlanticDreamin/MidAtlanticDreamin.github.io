@@ -67,8 +67,16 @@ edition: "2026"
 
 <div class="container-flex">
     {% include tiles-sponsor.html 
+            title = "Reception Desk Sponsor"
+            level = "Reception"
+            edition = page.edition
+    %}
+</div>
+
+<!--<div class="container-flex">
+    {% include tiles-sponsor.html 
             title = "Trailblazer Community"
             level = "Trailblazer Community"
             edition = page.edition
     %}
-</div>
+</div>-->
