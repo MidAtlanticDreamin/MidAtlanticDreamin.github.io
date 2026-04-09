@@ -1,6 +1,6 @@
 ---
 sponsor_name: Snapbrick
-logo: Snackbrick.jpg
+logo: Snapbrick.jpg
 sponsor_url: https://www.snapbrick.ai
 output: false
 homepage: true
