@@ -4,12 +4,12 @@ menu:
     url: ""
     cta: false
     disabled: false
-  #- name: Agenda
-  #  type: internal
-  #  url: "2025-agenda.html"
-  #  external: false
-  #  cta: false
-  #  disabled: false
+  - name: Agenda
+    type: external
+    url: "./docs/MidAtlanticDreamin2026Agenda.pdf"
+    external: true
+    cta: false
+    disabled: false
   #- name: Speakers
   #  type: internal
   #  url: "2025-speakers.html"
