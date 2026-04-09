@@ -9,7 +9,7 @@ edition: "2026"
     <p>We are still accepting sponsorships for this year's event. <a href="./docs/MidAtlanticDreamin2026Prospectus.pdf">Check out the 2026 Prospectus</a></p>
 </div>
 
-<div class="container-flex">
+<!--<div class="container-flex">
     {% include tiles-sponsor.html 
             title = "Diamond"
             level = "Diamond"
@@ -31,7 +31,7 @@ edition: "2026"
             level = "Gold"
             edition = page.edition
     %}
-</div>
+</div>-->
 
 <div class="container-flex">
     {% include tiles-sponsor.html 
