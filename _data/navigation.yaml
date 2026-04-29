@@ -6,7 +6,7 @@ menu:
     disabled: false
   - name: Agenda
     type: external
-    url: "./docs/MidAtlanticDreamin2026Agenda.pdf"
+    url: "https://canva.link/ivhdbdewtgansbb"
     external: true
     cta: false
     disabled: false
